@@ -3,7 +3,7 @@
 ## 1. Binary Search
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-| 1 |  [Two Sum](https://leetcode.com/problems/two-sum/) | | Easy | | |
+
 
 ## 2. Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -21,22 +21,27 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 
-## 6. BFS
+## 6. HashMap, Array, String
+| #    | Title | Solution | Difficulty | Source Code |    Page     |
+| ---- | ----- | -------- | ---------- | ----------- | ----------- |
+| 1 |  [Two Sum](https://leetcode.com/problems/two-sum/) | | Easy | [Two Sum](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TwoSum.java)| |
+
+## 7. BFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 
-## 7. DFS
+## 8. DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 
-## 8. DP
+## 9. DP
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 
-## 9. Design
+## 10. Design
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 
-## 10. Trie
+## 11. Trie
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
