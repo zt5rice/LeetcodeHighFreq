@@ -25,6 +25,7 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 1 |  [Two Sum](https://leetcode.com/problems/two-sum/) | | Easy | [Two Sum](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TwoSum.java)| |
+|438|	| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)  | Easy | | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 
 ## 7. BFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
