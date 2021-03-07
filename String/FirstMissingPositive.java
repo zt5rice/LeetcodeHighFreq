@@ -54,8 +54,5 @@ public class FirstMissingPositive {
         int tmp = arr[left];
         arr[left] = arr[right];
         arr[right] = tmp;
-    }  
-
-
-        
+    }     
 }
