@@ -30,8 +30,8 @@
 ## . HashMap, Array, String
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 | 1 |  [Two Sum](https://leetcode.com/problems/two-sum/) | | Easy | [Two Sum](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TwoSum.java)| |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 
 ## . BFS
