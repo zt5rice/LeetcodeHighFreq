@@ -45,6 +45,7 @@
 ## . DP
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | | Medium | [Unique Binary Search Trees](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumTrees.java) | ----------- |
 
 ## . Design
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
