@@ -25,7 +25,7 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| | Medium | [Binary Tree Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Tree/LevelOrder.java) | ----------- |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | Easy | [MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/MaxDepth.java) | ----------- |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | Easy | [MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java) | ----------- |
 
 ## . HashMap, Array, String
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
