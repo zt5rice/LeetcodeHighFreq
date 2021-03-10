@@ -26,6 +26,21 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| | Medium | [Binary Tree Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Tree/LevelOrder.java) | ----------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | Easy | [MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java) | ----------- |
+nary Tree Maximum Path Sum]()| |Hard| Tree|| 
+|236| [Lowest Common Ancestor of a Binary Tree]()| |Medium| Tree|| 
+|987| [Vertical Order Traversal of a Binary Tree]()| |Hard| Tree|| 
+|105| [Construct Binary Tree from Preorder and Inorder Traversal]()| |Medium| Tree|| 
+|103| [Binary Tree Zigzag Level Order Traversal]()| |Medium| Tree|| 
+|98| [Validate Binary Search Tree]()| |Medium| Tree|| 
+|863| [All Nodes Distance K in Binary Tree]()| |Medium| Tree|| 
+|543| [Diameter of Binary Tree]()| |Easy| Tree|| 
+|173| [Binary Search Tree Iterator]()| |Medium| Tree|| 
+|572| [Subtree of Another Tree]()| |Easy| Tree|| 
+|226| [Invert Binary Tree]()| |Easy| Tree|| 
+|545| [Boundary of Binary Tree]()| |Medium| Tree|| 
+|101| [Symmetric Tree]()| |Easy| Tree|| 
+|426| [Convert Binary Search Tree to Sorted Doubly Linked List]()| |Medium| Tree|| 
+
 
 ## . HashMap, Array, String
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
