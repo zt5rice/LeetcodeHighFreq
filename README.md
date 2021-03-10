@@ -34,6 +34,38 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 | 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
+|1| [Two Sum]()| |Easy| Array|| 
+|42| [Trapping Rain Water]()| |Hard| Array|| 
+|56| [Merge Intervals]()| |Medium| Array|| 
+|121| [Best Time to Buy and Sell Stock]()| |Easy| Array|| 
+|238| [Product of Array Except Self]()| |Medium| Array|| 
+|380| [Insert Delete GetRandom O(1)]()| |Medium| Array|| 
+|31| [Next Permutation]()| |Medium| Array|| 
+|4| [Median of Two Sorted Arrays]()| |Hard| Array|| 
+|1010| [Pairs of Songs With Total Durations Divisible by 60]()| |Medium| Array|| 
+|53| [Maximum Subarray]()| |Easy| Array|| 
+|41| [First Missing Positive]()| |Hard| Array|| 
+|560| [Subarray Sum Equals K]()| |Medium| Array|| 
+|15| [3Sum]()| |Medium| Array|| 
+|695| [Max Area of Island]()| |Medium| Array|| 
+|91| [Decode Ways]()| |Medium| String|| 
+|68| [Text Justification]()| |Hard| String|| 
+|3| [Longest Substring Without Repeating Characters]()| |Medium| String|| 
+|20| [Valid Parentheses]()| |Easy| String|| 
+|5| [Longest Palindromic Substring]()| |Medium| String|| 
+|273| [Integer to English Words]()| |Hard| String|| 
+|415| [Add Strings]()| |Easy| String|| 
+|443| [String Compression]()| |Medium| String|| 
+|17| [Letter Combinations of a Phone Number]()| |Medium| String|| 
+|10| [Regular Expression Matching]()| |Hard| String|| 
+|22| [Generate Parentheses]()| |Medium| String|| 
+|49| [Group Anagrams]()| |Medium| String|| 
+|76| [Minimum Window Substring]()| |Hard| String|| 
+|14| [Longest Common Prefix]()| |Easy| String|| 
+|767| [Reorganize String]()| |Medium| String|| 
+|937| [Reorder Data in Log Files]()| |Easy| String|| 
+
+
 ## . BFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
