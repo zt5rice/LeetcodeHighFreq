@@ -225,3 +225,13 @@
 ## . Trie
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|692|[Top K Frequent Words]()||Medium|Trie||
+|212|[Word Search II]()||Hard|Trie||
+|211|[Design Add and Search Words Data Structure]()||Medium|Trie||
+|642|[Design Search Autocomplete System]()||Hard|Trie||
+|472|[Concatenated Words]()||Hard|Trie||
+|208|[Implement Trie (Prefix Tree)]()||Medium|Trie||
+|336|[Palindrome Pairs]()||Hard|Trie||
+|421|[Maximum XOR of Two Numbers in an Array]()||Medium|Trie||
+|676|[Implement Magic Dictionary]()||Medium|Trie||
+|425|[Word Squares]()||Hard|Trie||
