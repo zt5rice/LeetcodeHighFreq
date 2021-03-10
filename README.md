@@ -3,7 +3,18 @@
 ## . Binary Search
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-
+|4| [Median of Two Sorted Arrays]()| |Hard| Binary Search|| 
+|981| [Time Based Key-Value Store]()| |Medium| Binary Search|| 
+|1235| [Maximum Profit in Job Scheduling]()| |Hard| Binary Search|| 
+|528| [Random Pick with Weight]()| |Medium| Binary Search|| 
+|33| [Search in Rotated Sorted Array]()| |Medium| Binary Search|| 
+|50| [Pow(x,n)]()| |Medium| Binary Search|| 
+|287| [Find the Duplicate Number]()| |Medium| Binary Search|| 
+|363| [Max Sum of Rectangle No Larger Than K]()| |Hard| Binary Search|| 
+|315| [Count of Smaller Numbers After Self]()| |Hard| Binary Search|| 
+|209| [Minimum Size Subarray Sum]()| |Medium| Binary Search|| 
+|300| [Longest Increasing Subsequence]()| |Medium| Binary Search|| 
+|493| [Reverse Pairs]()| |Hard| Binary Search|| 
 
 ## . Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -79,6 +90,21 @@ nary Tree Maximum Path Sum]()| |Hard| Tree||
 |14| [Longest Common Prefix]()| |Easy| String|| 
 |767| [Reorganize String]()| |Medium| String|| 
 |937| [Reorder Data in Log Files]()| |Easy| String|| 
+|1| [Two Sum]()| |Easy| HashTable|| 
+|953| [Verifying an Alien Dictionary]()| |Easy| HashTable|| 
+|3| [Longest Substring Without Repeating Characters]()| |Medium| HashTable|| 
+|380| [Insert Delete GetRandom O(1)]()| |Medium| HashTable|| 
+|981| [Time Based Key-Value Store]()| |Medium| HashTable|| 
+|560| [Subarray Sum Equals K]()| |Medium| HashTable|| 
+|347| [Top K Frequent Elements]()| |Medium| HashTable|| 
+|49| [Group Anagrams]()| |Medium| HashTable|| 
+|76| [Minimum Window Substring]()| |Hard| HashTable|| 
+|739| [Daily Temperatures]()| |Medium| HashTable|| 
+|692| [Top K Frequent Words]()| |Medium| HashTable|| 
+|987| [Vertical Order Traversal of a Binary Tree]()| |Hard| HashTable|| 
+|811| [Subdomain Visit Count]()| |Easy| HashTable|| 
+|1152| [Analyze User Website Visit Pattern]()| |Medium| HashTable|| 
+|387| [First Unique Character in a String]()| |Easy| HashTable|| 
 
 
 ## . BFS
