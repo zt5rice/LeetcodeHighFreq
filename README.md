@@ -37,10 +37,43 @@
 ## . BFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|200| [Number of Islands]()| |Medium| BFS|| 
+|127| [Word Ladder]()| |Hard| BFS|| 
+|1197| [Minimum Knight Moves]()| |Medium| BFS|| 
+|199| [Binary Tree Right Side View]()| |Medium| BFS|| 
+|987| [Vertical Order Traversal of a Binary Tree]()| |Hard| BFS|| 
+|301| [Remove Invalid Parentheses]()| |Hard| BFS|| 
+|994| [Rotting Oranges]()| |Medium| BFS|| 
+|103| [Binary Tree Zigzag Level Order Traversal]()| |Medium| BFS|| 
+|863| [All Nodes Distance K in Binary Tree]()| |Medium| BFS|| 
+|210| [Course Schedule II]()| |Medium| BFS|| 
+|207| [Course Schedule]()| |Medium| BFS|| 
+|417| [Pacific Atlantic Water Flow]()| |Medium| BFS|| 
 
 ## . DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|200| [Number of Islands]()| |Medium| DFS|| 
+|1192| [Critical Connections in a Network]()| |Hard| DFS|| 
+|17| [Letter Combinations of a Phone Number]()| |Medium| DFS|| 
+|547| [Number of Provinces]()| |Medium| DFS|| 
+|394| [Decode String]()| |Medium| DFS|| 
+|695| [Max Area of Island]()| |Medium| DFS|| 
+|199| [Binary Tree Right Side View]()| |Medium| DFS|| 
+|124| [Binary Tree Maximum Path Sum]()| |Hard| DFS|| 
+|987| [Vertical Order Traversal of a Binary Tree]()| |Hard| DFS|| 
+|301| [Remove Invalid Parentheses]()| |Hard| DFS|| 
+|105| [Construct Binary Tree from Preorder and Inorder Traversal]()| |Medium| DFS|| 
+|332| [Reconstruct Itinerary]()| |Medium| DFS|| 
+|98| [Validate Binary Search Tree]()| |Medium| DFS|| 
+|863| [All Nodes Distance K in Binary Tree]()| |Medium| DFS|| 
+|210| [Course Schedule II]()| |Medium| DFS|| 
+|207| [Course Schedule]()| |Medium| DFS|| 
+|721| [Accounts Merge]()| |Medium| DFS|| 
+|329| [Longest Increasing Path in a Matrix]()| |Hard| DFS|| 
+|417| [Pacific Atlantic Water Flow]()| |Medium| DFS|| 
+|526| [Beautiful Arrangement]()| |Medium| DFS|| 
+|211| [Design Add and Search Words Data Structure]()| |Medium| DFS|| 
 
 ## . DP
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
