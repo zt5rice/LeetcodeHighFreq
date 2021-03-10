@@ -15,6 +15,21 @@
 |209| [Minimum Size Subarray Sum]()| |Medium| Binary Search|| 
 |300| [Longest Increasing Subsequence]()| |Medium| Binary Search|| 
 |493| [Reverse Pairs]()| |Hard| Binary Search|| 
+|4|[Median of Two Sorted Arrays]()||Hard|Binary Search||
+|33|[Search in Rotated Sorted Array]()||Medium|Binary Search||
+|50|[Pow(x, n)]()||Medium|Binary Search||
+|287|[Find the Duplicate Number]()||Medium|Binary Search||
+|315|[Count of Smaller Numbers After Self]()||Hard|Binary Search||
+|300|[Longest Increasing Subsequence]()||Medium|Binary Search||
+|34|[Find First and Last Position of Element in Sorted Array]()||Medium|Binary Search||
+|162|[Find Peak Element]()||Medium|Binary Search||
+|378|[Kth Smallest Element in a Sorted Matrix]()||Medium|Binary Search||
+|454|[4Sum II]()||Medium|Binary Search||
+|350|[Intersection of Two Arrays II]()||Easy|Binary Search||
+|29|[Divide Two Integers]()||Medium|Binary Search||
+|240|[Search a 2D Matrix II]()||Medium|Binary Search||
+|230|[Kth Smallest Element in a BST]()||Medium|Binary Search||
+|69|[Sqrt(x)]()||Easy|Binary Search||
 
 ## . Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -24,6 +39,13 @@
 |973|[K Closest Points to Origin]()||Medium|Sorting||
 |1235|[Maximum Profit in Job Scheduling]()||Hard|Sorting||
 |767|[Reorganize String]()||Medium|Sorting||
+|315|[Count of Smaller Numbers After Self]()||Hard|Sorting||
+|179|[Largest Number]()||Medium|Sorting||
+|242|[Valid Anagram]()||Easy|Sorting||
+|75|[Sort Colors]()||Medium|Sorting||
+|148|[Sort List]()||Medium|Sorting||
+|350|[Intersection of Two Arrays II]()||Easy|Sorting||
+|324|[Wiggle Sort II]()||Medium|Sorting||
 
 ## . Recursion
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -34,6 +56,8 @@
 |199|[Binary Tree Right Side View]()||Medium|Recursion||
 |124|[Binary Tree Maximum Path Sum]()||Hard|Recursion||
 |98|[Validate Binary Search Tree]()||Medium|Recursion||
+|395|[Longest Substring with At Least K Repeating Characters ]()||Medium|Recursion||
+|104|[Maximum Depth of Binary Tree]()||Easy|Recursion||
 
 ## . LinkedList
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -44,6 +68,13 @@
 |21| [Merge Two Sorted Lists]()| |Easy| LinkedList|| 
 |234| [Palindrome Linked List]()| |Easy| LinkedList|| 
 |25| [Reverse Nodes in k-Group]()| |Hard| LinkedList|| 
+|138|[Copy List with Random Pointer]()||Medium|LinkedList||
+|19|[Remove Nth Node From End of List]()||Medium|LinkedList||
+|148|[Sort List]()||Medium|LinkedList||
+|141|[Linked List Cycle]()||Easy|LinkedList||
+|160|[Intersection of Two Linked Lists]()||Easy|LinkedList||
+|328|[Odd Even Linked List]()||Medium|LinkedList||
+|237|[Delete Node in a Linked List]()||Easy|LinkedList||
 
 ## . Stack and queue
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -59,6 +90,12 @@
 |199|[Binary Tree Right Side View]()||Medium|Queue||
 |621|[Task Scheduler]()||Medium|Queue||
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Queue||
+|227|[Basic Calculator II]()||Medium|Stack||
+|103|[Binary Tree Zigzag Level Order Traversal]()||Medium|Stack||
+|84|[Largest Rectangle in Histogram]()||Hard|Stack||
+|341|[Flatten Nested List Iterator]()||Medium|Stack||
+|150|[Evaluate Reverse Polish Notation]()||Medium|Stack||
+|94|[Binary Tree Inorder Traversal]()||Medium|Stack||
 
 ## . Tree
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -79,6 +116,19 @@
 |545| [Boundary of Binary Tree]()| |Medium| Tree|| 
 |101| [Symmetric Tree]()| |Easy| Tree|| 
 |426| [Convert Binary Search Tree to Sorted Doubly Linked List]()| |Medium| Tree|| 
+|124|[Binary Tree Maximum Path Sum]()||Hard|Tree||
+|236|[Lowest Common Ancestor of a Binary Tree]()||Medium|Tree||
+|105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|Tree||
+|103|[Binary Tree Zigzag Level Order Traversal]()||Medium|Tree||
+|98|[Validate Binary Search Tree]()||Medium|Tree||
+|101|[Symmetric Tree]()||Easy|Tree||
+|102|[Binary Tree Level Order Traversal]()||Medium|Tree||
+|116|[Populating Next Right Pointers in Each Node]()||Medium|Tree||
+|108|[Convert Sorted Array to Binary Search Tree]()||Easy|Tree||
+|104|[Maximum Depth of Binary Tree]()||Easy|Tree||
+|230|[Kth Smallest Element in a BST]()||Medium|Tree||
+|285|[Inorder Successor in BST]()||Medium|Tree||
+|94|[Binary Tree Inorder Traversal]()||Medium|Tree||
 
 
 ## . HashMap, Array, String
@@ -102,6 +152,33 @@
 |560| [Subarray Sum Equals K]()| |Medium| Array|| 
 |15| [3Sum]()| |Medium| Array|| 
 |695| [Max Area of Island]()| |Medium| Array|| 
+|48|[Rotate Image]()||Medium|Array||
+|88|[Merge Sorted Array]()||Easy|Array||
+|289|[Game of Life]()||Medium|Array||
+|283|[Move Zeroes]()||Easy|Array||
+|152|[Maximum Product Subarray]()||Medium|Array||
+|105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|Array||
+|287|[Find the Duplicate Number]()||Medium|Array||
+|128|[Longest Consecutive Sequence]()||Hard|Array||
+|84|[Largest Rectangle in Histogram]()||Hard|Array||
+|78|[Subsets]()||Medium|Array||
+|11|[Container With Most Water]()||Medium|Array||
+|169|[Majority Element]()||Easy|Array||
+|34|[Find First and Last Position of Element in Sorted Array]()||Medium|Array||
+|118|[Pascal's Triangle]()||Easy|Array||
+|162|[Find Peak Element]()||Medium|Array||
+|122|[Best Time to Buy and Sell Stock II]()||Easy|Array||
+|62|[Unique Paths]()||Medium|Array||
+|73|[Set Matrix Zeroes]()||Medium|Array||
+|55|[Jump Game]()||Medium|Array||
+|66|[Plus One]()||Easy|Array||
+|75|[Sort Colors]()||Medium|Array||
+|26|[Remove Duplicates from Sorted Array]()||Easy|Array||
+|217|[Contains Duplicate]()||Easy|Array||
+|163|[Missing Ranges]()||Easy|Array||
+|277|[Find the Celebrity]()||Medium|Array||
+|268|[Missing Number]()||Easy|Array||
+|189|[Rotate Array]()||Medium|Array||
 |91| [Decode Ways]()| |Medium| String|| 
 |68| [Text Justification]()| |Hard| String|| 
 |3| [Longest Substring Without Repeating Characters]()| |Medium| String|| 
@@ -133,6 +210,29 @@
 |811| [Subdomain Visit Count]()| |Easy| HashTable|| 
 |1152| [Analyze User Website Visit Pattern]()| |Medium| HashTable|| 
 |387| [First Unique Character in a String]()| |Easy| HashTable|| 
+|14|[Longest Common Prefix]()||Easy|String||
+|227|[Basic Calculator II]()||Medium|String||
+|125|[Valid Palindrome]()||Easy|String||
+|387|[First Unique Character in a String]()||Easy|String||
+|38|[Count and Say]()||Medium|String||
+|44|[Wildcard Matching]()||Hard|String||
+|149|[Max Points on a Line]()||Hard|String||
+|8|[String to Integer (atoi)]()||Medium|String||
+|202|[Happy Number]()||Easy|String||
+|138|[Copy List with Random Pointer]()||Medium|String||
+|344|[Reverse String]()||Easy|String||
+|13|[Roman to Integer]()||Easy|String||
+|340|[Longest Substring with At Most K Distinct Characters]()||Medium|String||
+|36|[Valid Sudoku]()||Medium|String||
+|242|[Valid Anagram]()||Easy|String||
+|204|[Count Primes]()||Easy|String||
+|454|[4Sum II]()||Medium|String||
+|350|[Intersection of Two Arrays II]()||Easy|String||
+|136|[Single Number]()||Easy|String||
+|217|[Contains Duplicate]()||Easy|String||
+|28|[Implement strStr()]()||Easy|String||
+|166|[Fraction to Recurring Decimal]()||Medium|String||
+|94|[Binary Tree Inorder Traversal]()||Medium|String||
 
 
 ## . BFS
@@ -150,6 +250,16 @@
 |210| [Course Schedule II]()| |Medium| BFS|| 
 |207| [Course Schedule]()| |Medium| BFS|| 
 |417| [Pacific Atlantic Water Flow]()| |Medium| BFS|| 
+|103|[Binary Tree Zigzag Level Order Traversal]()||Medium|BFS||
+|210|[Course Schedule II]()||Medium|BFS||
+|207|[Course Schedule]()||Medium|BFS||
+|101|[Symmetric Tree]()||Easy|BFS||
+|102|[Binary Tree Level Order Traversal]()||Medium|BFS||
+|279|[Perfect Squares]()||Medium|BFS||
+|116|[Populating Next Right Pointers in Each Node]()||Medium|BFS||
+|130|[Surrounded Regions]()||Medium|BFS||
+|210|[Course Schedule II]()||Medium|Graph||
+|207|[Course Schedule]()||Medium|Graph||
 
 ## . DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -175,6 +285,18 @@
 |417| [Pacific Atlantic Water Flow]()| |Medium| DFS|| 
 |526| [Beautiful Arrangement]()| |Medium| DFS|| 
 |211| [Design Add and Search Words Data Structure]()| |Medium| DFS|| 
+|124|[Binary Tree Maximum Path Sum]()||Hard|DFS||
+|105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
+|98|[Validate Binary Search Tree]()||Medium|DFS||
+|210|[Course Schedule II]()||Medium|DFS||
+|207|[Course Schedule]()||Medium|DFS||
+|329|[Longest Increasing Path in a Matrix]()||Hard|DFS||
+|101|[Symmetric Tree]()||Easy|DFS||
+|131|[Palindrome Partitioning]()||Medium|DFS||
+|116|[Populating Next Right Pointers in Each Node]()||Medium|DFS||
+|130|[Surrounded Regions]()||Medium|DFS||
+|108|[Convert Sorted Array to Binary Search Tree]()||Easy|DFS||
+|104|[Maximum Depth of Binary Tree]()||Easy|DFS||
 
 ## . DP
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -230,6 +352,16 @@
 |123| [Best Time to Buy and Sell Stock III]()| |Hard| DP|| 
 |279| [Perfect Squares]()| |Medium| DP|| 
 |1027| [Longest Arithmetic Subsequence]()| |Medium| DP|| 
+|140|[Word Break II]()||Hard|DP||
+|322|[Coin Change]()||Medium|DP||
+|152|[Maximum Product Subarray]()||Medium|DP||
+|44|[Wildcard Matching]()||Hard|DP||
+|300|[Longest Increasing Subsequence]()||Medium|DP||
+|70|[Climbing Stairs]()||Easy|DP||
+|198|[House Robber]()||Medium|DP||
+|62|[Unique Paths]()||Medium|DP||
+|131|[Palindrome Partitioning]()||Medium|DP||
+|279|[Perfect Squares]()||Medium|DP||
 
 ## . Design
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -243,6 +375,10 @@
 |1348| [Tweet Counts Per Frequency]()| |Medium| Design|| 
 |297| [Serialize and Deserialize Binary Tree]()| |Hard| Design|| 
 |155| [Min Stack]()| |Easy| Design|| 
+|348|[Design Tic-Tac-Toe]()||Medium|Design||
+|341|[Flatten Nested List Iterator]()||Medium|Design||
+|208|[Implement Trie (Prefix Tree)]()||Medium|Design||
+|251|[Flatten 2D Vector]()||Medium|Design||
 
 ## . Trie
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
