@@ -27,6 +27,12 @@
 ## . LinkedList
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|2| [Add Two Numbers]()| |Medium| LinkedList|| 
+|206| [Reverse Linked List]()| |Easy| LinkedList|| 
+|23| [Merge k Sorted Lists]()| |Hard| LinkedList|| 
+|21| [Merge Two Sorted Lists]()| |Easy| LinkedList|| 
+|234| [Palindrome Linked List]()| |Easy| LinkedList|| 
+|25| [Reverse Nodes in k-Group]()| |Hard| LinkedList|| 
 
 ## . Stack and queue
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
@@ -37,7 +43,7 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| | Medium | [Binary Tree Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Tree/LevelOrder.java) | ----------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | Easy | [MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java) | ----------- |
-nary Tree Maximum Path Sum]()| |Hard| Tree|| 
+| 124 | [nary Tree Maximum Path Sum]()| |Hard| Tree|| 
 |236| [Lowest Common Ancestor of a Binary Tree]()| |Medium| Tree|| 
 |987| [Vertical Order Traversal of a Binary Tree]()| |Hard| Tree|| 
 |105| [Construct Binary Tree from Preorder and Inorder Traversal]()| |Medium| Tree|| 
