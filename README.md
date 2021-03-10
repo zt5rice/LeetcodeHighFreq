@@ -19,6 +19,11 @@
 ## . Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|56|[Merge Intervals]()||Medium|Sorting||
+|253|[Meeting Rooms II]()||Medium|Sorting||
+|973|[K Closest Points to Origin]()||Medium|Sorting||
+|1235|[Maximum Profit in Job Scheduling]()||Hard|Sorting||
+|767|[Reorganize String]()||Medium|Sorting||
 
 ## . Recursion
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
