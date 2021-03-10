@@ -48,6 +48,17 @@
 ## . Stack and queue
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|42|[Trapping Rain Water]()||Hard|Stack||
+|20|[Valid Parentheses]()||Easy|Stack||
+|224|[Basic Calculator]()||Hard|Stack||
+|394|[Decode String]()||Medium|Stack||
+|1209|[Remove All Adjacent Duplicates in String II]()||Medium|Stack||
+|739|[Daily Temperatures]()||Medium|Stack||
+|155|[Min Stack]()||Easy|Stack||
+|227|[Basic Calculator II]()||Medium|Stack||
+|199|[Binary Tree Right Side View]()||Medium|Queue||
+|621|[Task Scheduler]()||Medium|Queue||
+|363|[Max Sum of Rectangle No Larger Than K]()||Hard|Queue||
 
 ## . Tree
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
