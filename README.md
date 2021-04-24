@@ -258,7 +258,7 @@
 |133|[Clone Graph]()||Medium|BFS||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||Medium|[Number of Islands](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/NumIslands.java)||
 |207|[Course Schedule]()||Medium|BFS||
-|210|[Course Schedule II]()||Medium|BFS||
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)||Medium|[Course Schedule II](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/FindOrder.java)||
 |286|[Walls and Gates]()||Medium|BFS||
 |301|[Remove Invalid Parentheses]()||Hard|BFS||
 |323|[Number of Connected Components in an Undirected Graph]()||Medium|BFS||
