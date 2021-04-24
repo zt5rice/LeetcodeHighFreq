@@ -15,7 +15,7 @@ public class MaxDepth {
         MaxDepth sol = new MaxDepth();
         ConstructTree tree = new ConstructTree();
         Integer[] input = {3,9,20,null,null,15,7};
-        System.out.println("Input  : " + Arrays.toString(input));
+        System.out.println("Input   : " + Arrays.toString(input));
         TreeNode root = tree.constructTree(input);
         int depth = sol.maxDepth(root);
         System.out.println("Output  : " + depth);

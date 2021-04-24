@@ -19,7 +19,7 @@ public class KeepDistance {
     public static void main(String[] args) {
         KeepDistance sol = new KeepDistance();
         int k = 3;
-        System.out.println(Arrays.toString(sol.keepDistance2(k)));
+        System.out.println(Arrays.toString(sol.keepDistance3(k)));
     }
 
     public int[] keepDistance(int k) {
@@ -71,6 +71,27 @@ public class KeepDistance {
         } // 2 0 0 2 
         return false;
     }
+    public int[] keepDistance3(int k) {
+        int[] res = new int[2*k];
+        return dfs3(res, k, 1) ? res : null;
+      }
+      private boolean dfs3(int[] res, int k, int i) {
+        if (i== k +1) {
+          return true;
+        }
+        for (int j = 0; j < 2*k - i - 1; j++) { // size: i+2, 2k-i-2,   4 - 
+          if (res[j] == 0 && res[j + i + 1] == 0) {
+            res[j] = i;
+            res[j + i + 1] = i;
+            if (dfs3(res, k, i+1)) {
+                return true;
+            }
+            res[j] = 0;
+            res[j + i + 1] = 0; 
+          }
+        }
+        return false;
+      }
 }
 /*
  * 24 Method: dfs, coin, choose, quick return

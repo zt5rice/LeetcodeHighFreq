@@ -19,40 +19,68 @@ Set = null, all the subsets are []
 */
 
 class SubSets {
+    // public List<String> subSets(String set) {
+    //     List<String> res = new ArrayList<>();
+    //     if (set == null) {
+    //         return res;
+    //     }
+    //     char[] array = set.toCharArray(); // [a,b,c]
+    //     Arrays.sort(array); // o(nlogn)
+    //     StringBuilder sb = new StringBuilder(); // variable length
+    //     helper(array, 0, sb, res);
+    //     return res;
+    // }
+
+    // /*
+    //  * input: "abc" a: a | _ b: ab | a_ | b | __ c: abc| ab_ | ac | a__ | bc | b__ |
+    //  * c | ___ input: "abb", length == 2 0 a: a | _ 1 b: ab | a_ | b | __
+    //  * 
+    //  */
+    // private void helper(char[] array, int index, StringBuilder sb, List<String> res) {
+    //     // base case
+    //     if (index == array.length) {
+    //         res.add(sb.toString());
+    //         return;
+    //     } // array sorted
+    //       // 1. add the element
+    //     sb.append(array[index]);
+    //     helper(array, index + 1, sb, res);
+    //     sb.deleteCharAt(sb.length() - 1);
+
+    //     // 2. scape the element: case 1 - the same with prev element
+    //     while (index < array.length - 1 && array[index + 1] == array[index]) {
+    //         index++;
+    //     }
+    //     helper(array, index + 1, sb, res);
+    // }
     public List<String> subSets(String set) {
-        List<String> res = new ArrayList<>();
-        if (set == null) {
-            return res;
+        List<String> res = new ArrayList<String>();
+        if (set == null || set.length() == 0) {
+          return res;
         }
-        char[] array = set.toCharArray(); // [a,b,c]
-        Arrays.sort(array); // o(nlogn)
-        StringBuilder sb = new StringBuilder(); // variable length
-        helper(array, 0, sb, res);
+        char[] arr = set.toCharArray();
+        StringBuilder sb = new StringBuilder();
+        Arrays.sort(arr);
+        helper(arr, 0, sb, res);
         return res;
-    }
-
-    /*
-     * input: "abc" a: a | _ b: ab | a_ | b | __ c: abc| ab_ | ac | a__ | bc | b__ |
-     * c | ___ input: "abb", length == 2 0 a: a | _ 1 b: ab | a_ | b | __
-     * 
-     */
-    private void helper(char[] array, int index, StringBuilder sb, List<String> res) {
+      }
+      private void helper(char[] arr, int index, StringBuilder sb, List<String> res) {
         // base case
-        if (index == array.length) {
-            res.add(sb.toString());
-            return;
-        } // array sorted
-          // 1. add the element
-        sb.append(array[index]);
-        helper(array, index + 1, sb, res);
-        sb.deleteCharAt(sb.length() - 1);
-
-        // 2. scape the element: case 1 - the same with prev element
-        while (index < array.length - 1 && array[index + 1] == array[index]) {
-            index++;
+        if (index == arr.length) {
+          res.add(sb.toString());
+          return;
         }
-        helper(array, index + 1, sb, res);
-    }
+        //1. add
+        sb.append(arr[index]);
+        helper(arr, index + 1, sb, res);
+        sb.deleteCharAt(sb.length() - 1);
+    
+        // 2. not add
+        while (index + 1 < arr.length && arr[index + 1] == arr[index]) {
+          index++;
+        }
+        helper(arr, index + 1, sb, res);
+      }
 }
 
 /*
@@ -71,5 +99,8 @@ class Solution {
         String set = "aabb";
         System.out.println("Input  : " + set);
         System.out.println("Output : " + sol.subSets(set));
+        String set2 = "";
+        System.out.println("Input  : " + set2);
+        System.out.println("Output : " + sol.subSets(set2));
     }
 }

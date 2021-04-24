@@ -17,6 +17,22 @@ Examples
 
 the largest square of 1s has length of 2
 
+
+c: input - int[], output - n
+method: 2d dp
+
+dp[i][j] - largest size of square ending with matrix[i][j]
+  0 1 2 3
+0 0 0 0 0
+1 1 1 1 1
+2 0 1 2
+3 
+recur rule: dp[i][j] = 0, if matr[i][j] == 0
+                    = Math.min(3 left upper adj elem) + 1  , if matr[i][j] == 1
+record glbmax
+return glbmax
+tc/sc: o(n^2)
+
 */
 import java.util.Arrays;
 
