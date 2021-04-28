@@ -297,7 +297,7 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | | Medium | [NumTrees.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumTrees.java) | ----------- |
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)||Medium|[LongestPalindrome.java](LongestPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/LongestPalindrome.java)||
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)||Medium|[LongestPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/LongestPalindrome.java)||
 |10|[Regular Expression Matching]()||Hard|DP||
 |32|[Longest Valid Parentheses]()||Hard|DP||
 |42|[Trapping Rain Water]()||Hard|DP||
