@@ -305,7 +305,7 @@
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)||Easy|[MaxSubArray.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxSubArray.java)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)||Medium|[MinPathSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinPathSum.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solution/)||Easy|[ClimbStairs.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/ClimbStairs.java)||
-|91|[Decode Ways]()||Medium|DP||
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/)||Medium|[NumDecodings.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDecodings.java)||
 |115|[Distinct Subsequences]()||Hard|DP||
 |121|[Best Time to Buy and Sell Stock]()||Easy|DP||
 |131|[Palindrome Partitioning]()||Medium|DP||
