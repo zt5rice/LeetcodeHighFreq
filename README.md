@@ -300,7 +300,7 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)||Medium|[LongestPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/LongestPalindrome.java)||
 |10|[Regular Expression Matching]()||Hard|DP||
 |32|[Longest Valid Parentheses]()||Hard|DP||
-|42|[Trapping Rain Water]()||Hard|DP||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||Hard|[trap.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Trap.java)||
 |44|[Wildcard Matching]()||Hard|DP||
 |53|[Maximum Subarray]()||Easy|DP||
 |64|[Minimum Path Sum]()||Medium|DP||
