@@ -1,4 +1,4 @@
-public class ClimbStairs {
+public class ClimbStairs { // Math methods not included
     public int climbStairs(int n) { // tc: o(n); sc: o(n)
         if (n == 1) {
             return 1;
