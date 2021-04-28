@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import jdk.incubator.jpackage.main.Main;
-
 class MaxProfit {
     public int maxProfit(int[] prices) {
         if (prices == null || prices.length < 2) {

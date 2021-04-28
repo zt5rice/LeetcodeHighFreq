@@ -1,47 +1,40 @@
 import java.util.Arrays;
 
 public class MaxProfit3 {
-    public int maxProfit(int k, int[] prices) {
-        int n = prices.length;
-        if (n <= 1)
-            return 0;
-
-        //if k >= n/2, then you can make maximum number of transactions.
-        if (k >=  n/2) {
-            int maxPro = 0;
-            for (int i = 1; i < n; i++) {
-                if (prices[i] > prices[i-1])
-                    maxPro += prices[i] - prices[i-1];
-            }
-            return maxPro;
+    public int maxProfit3(int[] prices) {
+        int t1Cost = Integer.MAX_VALUE, 
+            t2Cost = Integer.MAX_VALUE;
+        int t1Profit = 0,
+            t2Profit = 0;
+    
+        for (int price : prices) {
+            // the maximum profit if only one transaction is allowed
+            t1Cost = Math.min(t1Cost, price);
+            t1Profit = Math.max(t1Profit, price - t1Cost);
+            // reinvest the gained profit in the second transaction
+            t2Cost = Math.min(t2Cost, price - t1Profit);
+            t2Profit = Math.max(t2Profit, price - t2Cost);
         }
-
-        int[][] dp = new int[k+1][n];
-        for (int i = 1; i <= k; i++) {
-            int localMax = dp[i-1][0] - prices[0];
-            for (int j = 1; j < n; j++) {
-                dp[i][j] = Math.max(dp[i][j-1],  prices[j] + localMax);
-                localMax = Math.max(localMax, dp[i-1][j] - prices[j]);
-            }
-        }
-        return dp[k][n-1];
-    }
+    
+        return t2Profit;
+      }
     public static void main(String[] args) {
         MaxProfit3 sol = new MaxProfit3();
-        int k;
         int[] prices;
         int maxProf;
 
-        k = 2;
-        prices = new int[]{2,4,1};
-        maxProf = sol.maxProfit(k, prices);
-        System.out.println("k   =   " + k);
+        prices = new int[]{3,3,5,0,0,3,1,4};
+        maxProf = sol.maxProfit3(prices);
         System.out.println("Prices :" + Arrays.toString(prices));
         System.out.println("Max Profit : " + maxProf);
-        k = 2;
-        prices = new int[]{3,2,6,5,0,3};
-        maxProf = sol.maxProfit(k, prices);
-        System.out.println("k   =   " + k);
+       
+        prices = new int[]{1,2,3,4,5};
+        maxProf = sol.maxProfit3(prices);
+        System.out.println("Prices :" + Arrays.toString(prices));
+        System.out.println("Max Profit : " + maxProf);
+
+        prices = new int[]{3,3,5,0,0,3,1,4};
+        maxProf = sol.maxProfit3(prices);
         System.out.println("Prices :" + Arrays.toString(prices));
         System.out.println("Max Profit : " + maxProf);
     }
