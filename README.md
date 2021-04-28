@@ -315,7 +315,7 @@
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)||Hard|[MaxProfit4.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit4.java)||
 |198|[House Robber](https://leetcode.com/problems/house-robber/)||Medium|[Rob.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Rob.java)||
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)||Medium|[Largest.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Largest.java)|DP|
-|256|[Paint House]()||Medium|DP||
+|256|[Paint House](https://leetcode.com/problems/paint-house/)||Medium|[MinCost.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinCost.java)||
 |279|[Perfect Squares]()||Medium|DP||
 |309|[Best Time to Buy and Sell Stock with Cooldown]()||Medium|DP||
 |312|[Burst Balloons]()||Hard|DP||
