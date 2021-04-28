@@ -321,6 +321,8 @@
 |312|[Burst Balloons]()||Hard|DP||
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange.java)||
 |403|[Frog Jump]()||Hard|DP||
+|518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
+
 |523|[Continuous Subarray Sum]()||Medium|DP||
 |741|[Cherry Pickup]()||Hard|DP||
 |871|[Minimum Number of Refueling Stops]()||Hard|DP||
