@@ -319,7 +319,7 @@
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)||Medium|[NumSquares.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumSquares.java)||
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)||Medium|[MaxProfit5.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit5.java)||
 |312|[Burst Balloons]()||Hard|DP||
-|322|[Coin Change]()||Medium|DP||
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange.java)||
 |403|[Frog Jump]()||Hard|DP||
 |523|[Continuous Subarray Sum]()||Medium|DP||
 |741|[Cherry Pickup]()||Hard|DP||
