@@ -300,9 +300,9 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)||Medium|[LongestPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/LongestPalindrome.java)||
 |10|[Regular Expression Matching]()||Hard|DP||
 |32|[Longest Valid Parentheses]()||Hard|DP||
-|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||Hard|[trap.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Trap.java)||
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||Hard|[Trap.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Trap.java)||
 |44|[Wildcard Matching]()||Hard|DP||
-|53|[Maximum Subarray]()||Easy|DP||
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)||Easy|[MaxSubArray.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxSubArray.java)||
 |64|[Minimum Path Sum]()||Medium|DP||
 |70|[Climbing Stairs]()||Easy|DP||
 |91|[Decode Ways]()||Medium|DP||
