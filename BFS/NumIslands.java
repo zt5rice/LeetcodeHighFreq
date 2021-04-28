@@ -52,3 +52,12 @@ class NumIslands {
         return num_islands;
       }
 }
+/*abstract
+c: i - char[][], o - int;
+a: 
+r: bfs - 
+FIFO - deque<Integer> neighbors, Integer - 1d from 2d indicies
+visited - set to '0'
+1. find '1', count++; put nei to queue
+tc: o(rc); sc: O(rc) - for queue, worst case
+*/

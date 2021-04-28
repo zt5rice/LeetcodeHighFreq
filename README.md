@@ -307,7 +307,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solution/)||Easy|[ClimbStairs.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/ClimbStairs.java)||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)||Medium|[NumDecodings.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDecodings.java)||
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)||Hard|[NumDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDistinct.java)||
-|121|[Best Time to Buy and Sell Stock]()||Easy|DP||
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||Easy|[MaxProfit.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit.java)||
 |131|[Palindrome Partitioning]()||Medium|DP||
 |139|[Word Break]()||Medium|DP||
 |140|[Word Break II]()||Hard|DP||
