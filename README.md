@@ -303,7 +303,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||Hard|[Trap.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Trap.java)||
 |44|[Wildcard Matching]()||Hard|DP||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)||Easy|[MaxSubArray.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxSubArray.java)||
-|64|[Minimum Path Sum]()||Medium|DP||
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)||Medium|[MinPathSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinPathSum.java)||
 |70|[Climbing Stairs]()||Easy|DP||
 |91|[Decode Ways]()||Medium|DP||
 |115|[Distinct Subsequences]()||Hard|DP||
