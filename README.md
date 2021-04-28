@@ -213,6 +213,7 @@
 |442|[Find All Duplicates in an Array]()||Medium|String||
 |443|[String Compression]()||Medium|String||
 |509|[Fibonacci Number]()||Easy|String||
+|523|[Continuous Subarray Sum]()||Medium|[CheckSubarraySum.java](CheckSubarraySum.java)|HashMap|
 |532|[K-diff Pairs in an Array]()||Medium|String||
 |535|[Encode and Decode TinyURL]()||Medium|String||
 |539|[Minimum Time Difference]()||Medium|String||
@@ -322,8 +323,6 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange.java)||
 |403|[Frog Jump]()||Hard|DP||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
-
-|523|[Continuous Subarray Sum]()||Medium|DP||
 |741|[Cherry Pickup]()||Hard|DP||
 |871|[Minimum Number of Refueling Stops]()||Hard|DP||
 |920|[Number of Music Playlists]()||Hard|DP||
