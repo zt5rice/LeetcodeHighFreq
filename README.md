@@ -309,7 +309,7 @@
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)||Hard|[NumDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDistinct.java)||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||Easy|[MaxProfit.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit.java)||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||Hard|[MaxProfit3.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit3.java)||
-|131|[Palindrome Partitioning]()||Medium|DP||
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)||Medium|[Partition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Partition.java)||
 |139|[Word Break]()||Medium|DP||
 |140|[Word Break II]()||Hard|DP||
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)||Hard|[MaxProfit4.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit4.java)||
