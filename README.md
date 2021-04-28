@@ -316,7 +316,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)||Medium|[Rob.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Rob.java)||
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)||Medium|[Largest.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Largest.java)|DP|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)||Medium|[MinCost.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinCost.java)||
-|279|[Perfect Squares]()||Medium|DP||
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)||Medium|[NumSquares.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumSquares.java)||
 |309|[Best Time to Buy and Sell Stock with Cooldown]()||Medium|DP||
 |312|[Burst Balloons]()||Hard|DP||
 |322|[Coin Change]()||Medium|DP||
