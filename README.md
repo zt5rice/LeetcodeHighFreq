@@ -310,8 +310,8 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||Easy|[MaxProfit.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit.java)||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||Hard|[MaxProfit3.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit3.java)||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)||Medium|[Partition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Partition.java)||
-|139|[Word Break](https://leetcode.com/problems/word-break/)||Medium|[WordBreak.java](https://leetcode.com/problems/word-break/WordBreak.java)||
-|140|[Word Break II]()||Hard|DP||
+|139|[Word Break](https://leetcode.com/problems/word-break/)||Medium|[WordBreak.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/WordBreak.java)||
+|140|[Word Break II](https://leetcode.com/problems/word-break-ii/)||Hard|[WordBreak2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/WordBreak2.java)||
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)||Hard|[MaxProfit4.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit4.java)||
 |198|[House Robber]()||Medium|DP||
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)||Medium|[Largest.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Largest.java)|DP|
