@@ -143,7 +143,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
-|66|[Plus One]()||Easy|Array||
+|66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |73|[Set Matrix Zeroes]()||Medium|Array||
 |78|[Subsets]()||Medium|Array||
 |88|[Merge Sorted Array]()||Easy|Array||
