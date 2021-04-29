@@ -173,7 +173,6 @@
 |39|[Combination Sum]()||Medium|String||
 |41|[First Missing Positive]()||Hard|String||
 |43|[Multiply Strings]()||Medium|String||
-|45|[Jump Game II]()||Medium|String||
 |49|[Group Anagrams]()||Medium|String||
 |54|[Spiral Matrix]()||Medium|String||
 |62|[Unique Paths]()||Medium|String||
@@ -251,6 +250,7 @@
 ## . BFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)||Medium|[Jump2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Jump2.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||Medium|[Binary Tree Zigzag Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ZigzagLevelOrder.java)||
 |116|[Populating Next Right Pointers in Each Node]()||Medium|BFS||
 |126|[Word Ladder II]()||Hard|BFS||
