@@ -53,7 +53,7 @@ class WordBreak2 {
         }
         return max;
     }
-
+    // Method 1. DFS w backtracking: https://leetcode.com/problems/word-break-ii/discuss/44243/Java-DP%2BDFS-Memoization%2BDFS-and-DP-Pruning-Solutions-with-Analysis
     public static void main(String[] args) {
         WordBreak2 sol = new WordBreak2();
         String s;

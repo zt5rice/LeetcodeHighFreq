@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import jdk.incubator.jpackage.main.Main;
-
 public class CoinChange {
     public int coinChange(int[] coins, int amount) { // assume coins sorted decreasing amount
         int[] dp = new int[amount+1];
@@ -14,7 +12,7 @@ public class CoinChange {
                 }
             }
         }
-        System.out.println(Arrays.toString(dp));
+        //System.out.println(Arrays.toString(dp));
         return dp[amount] > amount ? -1 : dp[amount];
       }
       public static void main(String[] args) {
@@ -29,6 +27,5 @@ public class CoinChange {
           System.out.println("Coins  : " + Arrays.toString(coins));
           System.out.println("Amount : " + amount);
           System.out.println("Result : " + res);
-          
       }
 }
