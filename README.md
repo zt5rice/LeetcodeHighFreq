@@ -142,7 +142,7 @@
 | 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
-|48|[Rotate Image]()||Medium|Array||
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
 |55|[Jump Game]()||Medium|Array||
 |66|[Plus One]()||Easy|Array||
 |73|[Set Matrix Zeroes]()||Medium|Array||
