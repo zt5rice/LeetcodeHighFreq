@@ -143,7 +143,6 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
-|55|[Jump Game]()||Medium|Array||
 |66|[Plus One]()||Easy|Array||
 |73|[Set Matrix Zeroes]()||Medium|Array||
 |78|[Subsets]()||Medium|Array||
@@ -304,6 +303,7 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)||Hard|[Trap.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Trap.java)||
 |44|[Wildcard Matching]()||Hard|DP||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)||Easy|[MaxSubArray.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxSubArray.java)||
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)||Medium|[CanJump.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CanJump.java)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)||Medium|[MinPathSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinPathSum.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solution/)||Easy|[ClimbStairs.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/ClimbStairs.java)||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)||Medium|[NumDecodings.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDecodings.java)||
