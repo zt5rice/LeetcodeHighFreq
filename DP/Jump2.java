@@ -49,6 +49,34 @@ public class Jump2 {
         }
         return -1; // if i < curMax, i can't move forward anymore (the last element in the array can't be reached)
     }
+
+    public int jump5(int[] nums) { // normal BFS, tc: o(n2), sc: o(n)
+        boolean[] visited = new boolean[nums.length];
+        Queue<Integer> q = new LinkedList<>();
+        q.add(0);
+        visited[0] = true;
+        int depth = 0;
+        while(!q.isEmpty())
+        {
+            int size = q.size();
+            for(int i=0; i<size; i++)
+            {
+                int index = q.remove();
+                if(index==nums.length-1) return depth;
+                for(int j=1; j<=nums[index]; j++)
+                {
+                    int neighbor_index = index + j;
+                    //if(neighbor_index==nums.length-1) return depth+1;
+                    if(neighbor_index>nums.length-1) break;
+                    if(visited[neighbor_index]) continue;
+                    q.add(neighbor_index);
+                    visited[neighbor_index]=true;
+                }
+            }
+            depth++;
+        }
+        return -1;   
+    }
     public static void main(String[] args) {
         Jump2 sol = new Jump2();
         int[] nums;
