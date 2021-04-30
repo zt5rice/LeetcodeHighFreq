@@ -137,12 +137,32 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 1 |  [Two Sum](https://leetcode.com/problems/two-sum/) | | Easy | [Two Sum](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TwoSum.java)| |
+|3|[Longest Substring Without Repeating Characters]()||Medium|String||
+|6|[ZigZag Conversion]()||Medium|String||
+|8|[String to Integer (atoi)]()||Medium|String||
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
+|12|[Integer to Roman]()||Medium|String||
+|13|[Roman to Integer]()||Easy|String||
+|14|[Longest Common Prefix]()||Easy|String||
+|15|[3Sum]()||Medium|String||
+|16|[3Sum Closest]()||Medium|String||
+|22|[Generate Parentheses]()||Medium|String||
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
+|28|[Implement strStr()]()||Easy|String||
+| 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
+|36|[Valid Sudoku]()||Medium|String||
+|37|[Sudoku Solver]()||Hard|String||
+|38|[Count and Say]()||Medium|String||
+|39|[Combination Sum]()||Medium|String||
+|41|[First Missing Positive]()||Hard|String||
+|43|[Multiply Strings]()||Medium|String||
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
+|49|[Group Anagrams]()||Medium|String||
+|54|[Spiral Matrix]()||Medium|String||
+|62|[Unique Paths]()||Medium|String||
+|65|[Valid Number]()||Hard|String||
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
-| 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
-|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||Easy|[Merge.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Merge.java)||
@@ -153,28 +173,6 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |268|[Missing Number]()||Easy|Array||
 |277|[Find the Celebrity]()||Medium|Array||
-|1|[Two Sum]()||Easy|String||
-|3|[Longest Substring Without Repeating Characters]()||Medium|String||
-|6|[ZigZag Conversion]()||Medium|String||
-|8|[String to Integer (atoi)]()||Medium|String||
-|12|[Integer to Roman]()||Medium|String||
-|13|[Roman to Integer]()||Easy|String||
-|14|[Longest Common Prefix]()||Easy|String||
-|15|[3Sum]()||Medium|String||
-|16|[3Sum Closest]()||Medium|String||
-|22|[Generate Parentheses]()||Medium|String||
-|28|[Implement strStr()]()||Easy|String||
-|31|[Next Permutation]()||Medium|String||
-|36|[Valid Sudoku]()||Medium|String||
-|37|[Sudoku Solver]()||Hard|String||
-|38|[Count and Say]()||Medium|String||
-|39|[Combination Sum]()||Medium|String||
-|41|[First Missing Positive]()||Hard|String||
-|43|[Multiply Strings]()||Medium|String||
-|49|[Group Anagrams]()||Medium|String||
-|54|[Spiral Matrix]()||Medium|String||
-|62|[Unique Paths]()||Medium|String||
-|65|[Valid Number]()||Hard|String||
 |67|[Add Binary]()||Easy|String||
 |68|[Text Justification]()||Hard|String||
 |72|[Edit Distance]()||Hard|String||
