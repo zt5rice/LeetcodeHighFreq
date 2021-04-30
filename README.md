@@ -146,7 +146,6 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||Easy|[LongestCommonPrefix.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LongestCommonPrefix.java)||
 |15|[3Sum](https://leetcode.com/problems/3sum/)||Medium|[ThreeSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ThreeSum.java)||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)||Medium|[ThreeSumClosest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ThreeSumClosest.java)||
-|22|[Generate Parentheses]()||Medium|String||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
 |28|[Implement strStr()]()||Easy|String||
 | 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
@@ -271,6 +270,7 @@
 ## . DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)||Medium|[GenerateParenthesis.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/GenerateParenthesis.java)||
 |78|[Subsets](https://leetcode.com/problems/subsets/)||Medium|[Subsets0.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Subsets0.java)||
 |99|[Recover Binary Search Tree]()||Hard|DFS||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
