@@ -150,7 +150,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)||Medium|[Rotate0.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate0.java)||
-|217|[Contains Duplicate]()||Easy|Array||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |268|[Missing Number]()||Easy|Array||
 |277|[Find the Celebrity]()||Medium|Array||
 |1|[Two Sum]()||Easy|String||
