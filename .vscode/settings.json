@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "String",
         "DP",
-        "String"
+        "BinarySearch"
     ]
 }
