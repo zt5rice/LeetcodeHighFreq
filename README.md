@@ -145,7 +145,6 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
-|78|[Subsets]()||Medium|Array||
 |88|[Merge Sorted Array]()||Easy|Array||
 |118|[Pascal's Triangle]()||Easy|Array||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
@@ -276,6 +275,7 @@
 ## . DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|78|[Subsets](https://leetcode.com/problems/subsets/)||Medium|[https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Subsets0.java](Subsets0.java)||
 |99|[Recover Binary Search Tree]()||Hard|DFS||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
 |108|[Convert Sorted Array to Binary Search Tree]()||Easy|DFS||

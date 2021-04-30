@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "String",
         "DP",
-        "BinarySearch"
+        "BinarySearch",
+        "DFS"
     ]
 }
