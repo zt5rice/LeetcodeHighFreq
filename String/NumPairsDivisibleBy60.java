@@ -1,6 +1,4 @@
-import jdk.incubator.jpackage.main.Main;
 
-import java.util.*;
 public class NumPairsDivisibleBy60 {
     public static void main(String[] args) {
         NumPairsDivisibleBy60 sol = new NumPairsDivisibleBy60();
