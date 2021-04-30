@@ -145,7 +145,7 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||Easy|[RomanToInt.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RomanToInt.java)||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||Easy|[LongestCommonPrefix.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LongestCommonPrefix.java)||
 |15|[3Sum](https://leetcode.com/problems/3sum/)||Medium|[ThreeSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ThreeSum.java)||
-|16|[3Sum Closest]()||Medium|String||
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)||Medium|[https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ThreeSumClosest.java](ThreeSumClosest.java)||
 |22|[Generate Parentheses]()||Medium|String||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
 |28|[Implement strStr()]()||Easy|String||
