@@ -137,7 +137,7 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 1 |  [Two Sum](https://leetcode.com/problems/two-sum/) | | Easy | [Two Sum](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TwoSum.java)| |
-|3|[Longest Substring Without Repeating Characters]()||Medium|String||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)||Medium|[LengthOfLongestSubstring.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LengthOfLongestSubstring.java)||
 |6|[ZigZag Conversion]()||Medium|String||
 |8|[String to Integer (atoi)]()||Medium|String||
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
