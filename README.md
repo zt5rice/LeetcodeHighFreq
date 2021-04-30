@@ -16,7 +16,7 @@
 |240|[Search a 2D Matrix II]()||Medium|Binary Search||
 |278|[First Bad Version]()||Easy|Binary Search||
 |287|[Find the Duplicate Number]()||Medium|Binary Search||
-|300|[Longest Increasing Subsequence]()||Medium|Binary Search||
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)||Medium|[Longest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Longest.java)||
 |315|[Count of Smaller Numbers After Self]()||Hard|Binary Search||
 |350|[Intersection of Two Arrays II]()||Easy|Binary Search||
 |354|[Russian Doll Envelopes]()||Hard|Binary Search||
