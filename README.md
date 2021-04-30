@@ -171,11 +171,6 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||Easy|[Merge.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Merge.java)||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
-|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)||Medium|[Rotate0.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate0.java)||
-|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
-|268|[Missing Number]()||Easy|Array||
-|277|[Find the Celebrity]()||Medium|Array||
 |125|[Valid Palindrome]()||Easy|String||
 |128|[Longest Consecutive Sequence]()||Hard|String||
 |136|[Single Number]()||Easy|String||
@@ -183,13 +178,18 @@
 |151|[Reverse Words in a String]()||Medium|String||
 |152|[Maximum Product Subarray]()||Medium|String||
 |158|[Read N Characters Given Read4 II - Call multiple times]()||Hard|String||
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
 |166|[Fraction to Recurring Decimal]()||Medium|String||
 |169|[Majority Element]()||Easy|String||
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)||Medium|[Rotate0.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate0.java)||
 |202|[Happy Number]()||Easy|String||
 |204|[Count Primes]()||Easy|String||
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |238|[Product of Array Except Self]()||Medium|String||
 |244|[Shortest Word Distance II]()||Medium|String||
+|268|[Missing Number]()||Easy|Array||
 |273|[Integer to English Words]()||Hard|String||
+|277|[Find the Celebrity]()||Medium|Array||
 |283|[Move Zeroes]()||Easy|String||
 |289|[Game of Life]()||Medium|String||
 |340|[Longest Substring with At Most K Distinct Characters]()||Medium|String||
