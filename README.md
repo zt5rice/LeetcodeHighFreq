@@ -146,9 +146,9 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||Easy|[Merge.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Merge.java)||
-|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](ttps://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
+|118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
-|163|[Missing Ranges]()||Easy|Array||
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
 |189|[Rotate Array]()||Medium|Array||
 |217|[Contains Duplicate]()||Easy|Array||
 |268|[Missing Number]()||Easy|Array||
