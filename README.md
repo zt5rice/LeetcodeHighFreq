@@ -161,10 +161,13 @@
 |54|[Spiral Matrix]()||Medium|String||
 |62|[Unique Paths]()||Medium|String||
 |65|[Valid Number]()||Hard|String||
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
-|438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
+|67|[Add Binary]()||Easy|String||
+|68|[Text Justification]()||Hard|String||
+|72|[Edit Distance]()||Hard|String||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
+|76|[Minimum Window Substring]()||Hard|String||
+|79|[Word Search]()||Medium|String||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||Easy|[Merge.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Merge.java)||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
@@ -173,11 +176,6 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |268|[Missing Number]()||Easy|Array||
 |277|[Find the Celebrity]()||Medium|Array||
-|67|[Add Binary]()||Easy|String||
-|68|[Text Justification]()||Hard|String||
-|72|[Edit Distance]()||Hard|String||
-|76|[Minimum Window Substring]()||Hard|String||
-|79|[Word Search]()||Medium|String||
 |125|[Valid Palindrome]()||Easy|String||
 |128|[Longest Consecutive Sequence]()||Hard|String||
 |136|[Single Number]()||Easy|String||
@@ -195,7 +193,7 @@
 |283|[Move Zeroes]()||Easy|String||
 |289|[Game of Life]()||Medium|String||
 |340|[Longest Substring with At Most K Distinct Characters]()||Medium|String||
-|344|[Reverse String]()||Easy|String||
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 |347|[Top K Frequent Elements]()||Medium|String||
 |355|[Design Twitter]()||Medium|String||
 |356|[Line Reflection]()||Medium|String||
@@ -204,7 +202,7 @@
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed]()||Hard|String||
 |387|[First Unique Character in a String]()||Easy|String||
 |415|[Add Strings]()||Easy|String||
-|438|[Find All Anagrams in a String]()||Medium|String||
+|438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 |442|[Find All Duplicates in an Array]()||Medium|String||
 |443|[String Compression]()||Medium|String||
 |509|[Fibonacci Number]()||Easy|String||
