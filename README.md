@@ -143,7 +143,7 @@
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)||Medium|[MaxArea.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea.java)||
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/solution/)||Medium|[IntToRoman.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IntToRoman.java)||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)||Easy|[RomanToInt.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RomanToInt.java)||
-|14|[Longest Common Prefix]()||Easy|String||
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)||Easy|[LongestCommonPrefix.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LongestCommonPrefix.java)||
 |15|[3Sum]()||Medium|String||
 |16|[3Sum Closest]()||Medium|String||
 |22|[Generate Parentheses]()||Medium|String||
