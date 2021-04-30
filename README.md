@@ -275,7 +275,7 @@
 ## . DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|78|[Subsets](https://leetcode.com/problems/subsets/)||Medium|[https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Subsets0.java](Subsets0.java)||
+|78|[Subsets](https://leetcode.com/problems/subsets/)||Medium|[Subsets0.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Subsets0.java)||
 |99|[Recover Binary Search Tree]()||Hard|DFS||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
 |108|[Convert Sorted Array to Binary Search Tree]()||Easy|DFS||
