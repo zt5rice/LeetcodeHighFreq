@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import jdk.incubator.jpackage.main.Main;
-
 public class MaxCoins {
     public int maxCoins(int[] nums) {
 
