@@ -162,7 +162,6 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |67|[Add Binary]()||Easy|String||
 |68|[Text Justification]()||Hard|String||
-|72|[Edit Distance]()||Hard|String||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
 |76|[Minimum Window Substring]()||Hard|String||
 |79|[Word Search]()||Medium|String||
@@ -302,6 +301,7 @@
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)||Medium|[UniquePaths.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/String/UniquePaths.java)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)||Medium|[MinPathSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinPathSum.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solution/)||Easy|[ClimbStairs.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/ClimbStairs.java)||
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)||Hard|[MinDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/DP/MinDistance.java)||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)||Medium|[NumDecodings.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDecodings.java)||
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)||Hard|[NumDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDistinct.java)||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||Easy|[MaxProfit.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit.java)||
