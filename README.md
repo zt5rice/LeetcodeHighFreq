@@ -149,7 +149,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)||Easy|[StrStr.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/StrStr.java)||
 | 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
-|36|[Valid Sudoku]()||Medium|String||
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)||Medium|[IsValidSudoku.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsValidSudoku.java)||
 |37|[Sudoku Solver]()||Hard|String||
 |38|[Count and Say]()||Medium|String||
 |39|[Combination Sum]()||Medium|String||
