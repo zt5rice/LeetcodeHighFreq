@@ -147,7 +147,7 @@
 |15|[3Sum](https://leetcode.com/problems/3sum/)||Medium|[ThreeSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ThreeSum.java)||
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)||Medium|[ThreeSumClosest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ThreeSumClosest.java)||
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)||Easy|[RemoveDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RemoveDuplicates.java)||
-|28|[Implement strStr()]()||Easy|String||
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)||Easy|[StrStr.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/StrStr.java)||
 | 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
 |36|[Valid Sudoku]()||Medium|String||
 |37|[Sudoku Solver]()||Hard|String||
