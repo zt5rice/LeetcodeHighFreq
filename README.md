@@ -158,7 +158,6 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/solution/)||Medium|[GroupAnagrams.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/GroupAnagrams.java)||
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)||Medium|[SpiralOrder.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SpiralOrder.java)||
-|62|[Unique Paths]()||Medium|String||
 |65|[Valid Number]()||Hard|String||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |67|[Add Binary]()||Easy|String||
@@ -300,6 +299,7 @@
 |44|[Wildcard Matching]()||Hard|DP||
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)||Easy|[MaxSubArray.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxSubArray.java)||
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)||Medium|[CanJump.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CanJump.java)||
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)||Medium|[UniquePaths.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/String/UniquePaths.java)||
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)||Medium|[MinPathSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinPathSum.java)||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/solution/)||Easy|[ClimbStairs.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/ClimbStairs.java)||
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)||Medium|[NumDecodings.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDecodings.java)||
