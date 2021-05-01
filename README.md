@@ -153,7 +153,7 @@
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)||Hard|[SolveSudoku.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SolveSudoku.java)||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)||Medium|[CountAndSay.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountAndSay.java)||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/)||Medium|[CombinationSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CombinationSum.java)||
-|41|[First Missing Positive]()||Hard|String||
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)||Hard|[FirstMissingPositive.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FirstMissingPositive.java)||
 |43|[Multiply Strings]()||Medium|String||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
 |49|[Group Anagrams]()||Medium|String||
