@@ -156,7 +156,7 @@
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)||Hard|[FirstMissingPositive.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FirstMissingPositive.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)||Medium|[Multiply.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Multiply.java)||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
-|49|[Group Anagrams]()||Medium|String||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/solution/)||Medium|[GroupAnagrams.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/GroupAnagrams.java)||
 |54|[Spiral Matrix]()||Medium|String||
 |62|[Unique Paths]()||Medium|String||
 |65|[Valid Number]()||Hard|String||
