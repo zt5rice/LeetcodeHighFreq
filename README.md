@@ -158,7 +158,7 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/solution/)||Medium|[GroupAnagrams.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/GroupAnagrams.java)||
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)||Medium|[SpiralOrder.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SpiralOrder.java)||
-|65|[Valid Number]()||Hard|String||
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)||Hard|[IsNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsNumber.java)||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |67|[Add Binary]()||Easy|String||
 |68|[Text Justification]()||Hard|String||
