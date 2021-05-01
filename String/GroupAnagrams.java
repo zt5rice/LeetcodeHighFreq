@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
+// Runtime: 15 ms, faster than 29.34% 
 public class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs.length == 0) return new ArrayList();
