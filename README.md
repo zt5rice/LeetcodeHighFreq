@@ -152,7 +152,7 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)||Medium|[IsValidSudoku.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsValidSudoku.java)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)||Hard|[SolveSudoku.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SolveSudoku.java)||
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)||Medium|[CountAndSay.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountAndSay.java)||
-|39|[Combination Sum]()||Medium|String||
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)||Medium|[CombinationSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CombinationSum.java)||
 |41|[First Missing Positive]()||Hard|String||
 |43|[Multiply Strings]()||Medium|String||
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)||Medium|[Rotate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate.java)||
