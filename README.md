@@ -151,7 +151,7 @@
 | 31 |  [Next Permutation](https://leetcode.com/problems/next-permutation/)| String Operation / Math | Medium |[NextPermutation.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NextPermutation.java)| ----------- |
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)||Medium|[IsValidSudoku.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsValidSudoku.java)||
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)||Hard|[SolveSudoku.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SolveSudoku.java)||
-|38|[Count and Say]()||Medium|String||
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)||Medium|[CountAndSay.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountAndSay.java)||
 |39|[Combination Sum]()||Medium|String||
 |41|[First Missing Positive]()||Hard|String||
 |43|[Multiply Strings]()||Medium|String||

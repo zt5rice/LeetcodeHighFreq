@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+// still not fast enough !!!
 public class SolveSudoku {
     public void solveSudoku(char[][] board) {
         if (board == null || board.length == 0)
