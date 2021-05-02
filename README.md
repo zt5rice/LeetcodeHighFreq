@@ -356,7 +356,7 @@
 |211|[Design Add and Search Words Data Structure]()||Medium|Trie||
 |642|[Design Search Autocomplete System]()||Hard|Trie||
 |472|[Concatenated Words]()||Hard|Trie||
-|208|[Implement Trie (Prefix Tree)]()||Medium|Trie||
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)||Medium|[Trie.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Trie.java)||
 |336|[Palindrome Pairs]()||Hard|Trie||
 |421|[Maximum XOR of Two Numbers in an Array]()||Medium|Trie||
 |676|[Implement Magic Dictionary]()||Medium|Trie||
