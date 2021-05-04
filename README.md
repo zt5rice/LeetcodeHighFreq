@@ -56,7 +56,6 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |17|[Letter Combinations of a Phone Number]()||Medium|Recursion||
 |21|[Merge Two Sorted Lists]()||Easy|Recursion||
-|199|[Binary Tree Right Side View]()||Medium|Recursion||
 |395|[Longest Substring with At Least K Repeating Characters ]()||Medium|Recursion||
 |698|[Partition to K Equal Sum Subsets]()||Medium|Recursion||
 |726|[Number of Atoms]()||Hard|Recursion||
@@ -121,6 +120,7 @@
 |101|[Symmetric Tree]()||Easy|Tree||
 |102|[Binary Tree Level Order Traversal]()||Medium|Tree||
 |104|[Maximum Depth of Binary Tree]()||Easy|Tree||
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||Medium|[RightSideView.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Recursion/RightSideView.java)||
 |226|[Invert Binary Tree]()||Easy|Tree||
 |236|[Lowest Common Ancestor of a Binary Tree]()||Medium|Tree||
 |285|[Inorder Successor in BST]()||Medium|Tree||
