@@ -161,7 +161,7 @@
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)||Hard|[IsNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsNumber.java)||
 |66|[Plus One](https://leetcode.com/problems/plus-one/)||Easy|[PlusOne.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PlusOne.java)||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)||Easy|[AddBinary.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AddBinary.java)||
-|68|[Text Justification]()||Hard|String||
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)||Hard|[FullJustify.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FullJustify.java)||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
 |76|[Minimum Window Substring]()||Hard|String||
 |79|[Word Search]()||Medium|String||
