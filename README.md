@@ -168,7 +168,7 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)||Easy|[IsPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsPalindrome.java)||
-|136|[Single Number]()||Easy|String||
+|136|[Single Number](https://leetcode.com/problems/single-number/)||Easy|[SingleNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SingleNumber.java)||
 |149|[Max Points on a Line]()||Hard|String||
 |151|[Reverse Words in a String]()||Medium|String||
 |152|[Maximum Product Subarray]()||Medium|String||
