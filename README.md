@@ -90,7 +90,7 @@
 |20|[Valid Parentheses]()||Easy|Stack||
 |71|[Simplify Path]()||Medium|Stack||
 |84|[Largest Rectangle in Histogram]()||Hard|Stack||
-|85|[Maximal Rectangle]()||Hard|Stack||
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||Hard|[MaximalRectangle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaximalRectangle.java)||
 |94|[Binary Tree Inorder Traversal]()||Medium|Stack||
 |150|[Evaluate Reverse Polish Notation]()||Medium|Stack||
 |155|[Min Stack]()||Easy|Stack||
