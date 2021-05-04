@@ -163,7 +163,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)||Easy|[AddBinary.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AddBinary.java)||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)||Hard|[FullJustify.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FullJustify.java)||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
-|76|[Minimum Window Substring]()||Hard|String||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||Hard|[MinWindow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MinWindow.java)||
 |79|[Word Search]()||Medium|String||
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||Easy|[Merge.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Merge.java)||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
