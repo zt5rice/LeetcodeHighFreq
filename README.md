@@ -163,8 +163,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)||Easy|[AddBinary.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AddBinary.java)||
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)||Hard|[FullJustify.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FullJustify.java)||
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)||Medium|[SetZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SetZeroes.java)||
-|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||Hard|[MinWindow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MinWindow.java)||
-|79|[Word Search]()||Medium|String||
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)||Hard|[MinWindow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MinWindow.java)|!!!Lai|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)||Easy|[Merge.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Merge.java)||
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
@@ -269,6 +268,7 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)||Medium|[GenerateParenthesis.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/GenerateParenthesis.java)||
 |78|[Subsets](https://leetcode.com/problems/subsets/)||Medium|[Subsets0.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Subsets0.java)||
+|79|[Word Search](https://leetcode.com/problems/word-search/solution/)||Medium|[WordSearch.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/WordSearch.java)||
 |99|[Recover Binary Search Tree]()||Hard|DFS||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
 |108|[Convert Sorted Array to Binary Search Tree]()||Easy|DFS||
