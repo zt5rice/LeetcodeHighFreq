@@ -101,7 +101,6 @@
 |346|[Moving Average from Data Stream]()||Easy|Stack||
 |394|[Decode String]()||Medium|Stack||
 |503|[Next Greater Element II]()||Medium|Stack||
-|621|[Task Scheduler]()||Medium|Stack||
 |636|[Exclusive Time of Functions]()||Medium|Stack||
 |735|[Asteroid Collision]()||Medium|Stack||
 |739|[Daily Temperatures ]()||Medium|Stack||
@@ -208,6 +207,7 @@
 |560|[Subarray Sum Equals K]()||Medium|String||
 |564|[Find the Closest Palindrome]()||Hard|String||
 |609|[Find Duplicate File in System]()||Medium|String||
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)||Medium|[LeastInterval.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LeastInterval.java)|[pages](https://leetcode.com/problems/task-scheduler/discuss/104500/Java-O(n)-time-O(1)-space-1-pass-no-sorting-solution-with-detailed-explanation)|
 |647|[Palindromic Substrings]()||Medium|String||
 |665|[Non-decreasing Array]()||Medium|String||
 |670|[Maximum Swap]()||Medium|String||
