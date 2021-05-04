@@ -169,7 +169,7 @@
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)||Easy|[IsPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsPalindrome.java)||
 |136|[Single Number](https://leetcode.com/problems/single-number/)||Easy|[SingleNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SingleNumber.java)||
-|149|[Max Points on a Line]()||Hard|String||
+|149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)||Hard|[MaxPoints.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxPoints.java)||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)||Medium|[ReverseWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseWords.java)||
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)||Medium|[MaxProduct.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxProduct.java)||
 |158|[Read N Characters Given Read4 II - Call multiple times]()||Hard|String||
