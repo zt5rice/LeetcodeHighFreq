@@ -169,7 +169,6 @@
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)||Easy|[Generate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Generate.java)||
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)||Easy|[MaxProfit2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit2.java)||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)||Easy|[IsPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsPalindrome.java)||
-|128|[Longest Consecutive Sequence]()||Hard|String||
 |136|[Single Number]()||Easy|String||
 |149|[Max Points on a Line]()||Hard|String||
 |151|[Reverse Words in a String]()||Medium|String||
@@ -306,6 +305,7 @@
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)||Hard|[NumDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumDistinct.java)||
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)||Easy|[MaxProfit.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit.java)||
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)||Hard|[MaxProfit3.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit3.java)||
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)||Hard|[LongestConsecutive.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/LongestConsecutive.java)||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)||Medium|[Partition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Partition.java)||
 |139|[Word Break](https://leetcode.com/problems/word-break/)||Medium|[WordBreak.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/WordBreak.java)||
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)||Hard|[WordBreak2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/WordBreak2.java)||
