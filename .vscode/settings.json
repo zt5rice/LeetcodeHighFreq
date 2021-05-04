@@ -1,9 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "Trie",
+        "Tree",
         "String",
         "DP",
         "DFS",
         "BinarySearch",
-        "Trie"
+        "BFS"
     ]
 }
