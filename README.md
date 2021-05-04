@@ -171,7 +171,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)||Easy|[SingleNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SingleNumber.java)||
 |149|[Max Points on a Line]()||Hard|String||
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)||Medium|[ReverseWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseWords.java)||
-|152|[Maximum Product Subarray]()||Medium|String||
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)||Medium|[MaxProduct.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxProduct.java)||
 |158|[Read N Characters Given Read4 II - Call multiple times]()||Hard|String||
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
 |166|[Fraction to Recurring Decimal]()||Medium|String||
