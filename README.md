@@ -73,7 +73,7 @@
 |92|[Reverse Linked List II]()||Medium|LinkedList||
 |138|[Copy List with Random Pointer]()||Medium|LinkedList||
 |141|[Linked List Cycle]()||Easy|LinkedList||
-|142|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle-ii/)||Medium|[GetIntersect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersect.java)||
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||Medium|[GetIntersect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersect.java)||
 |143|[Reorder List]()||Medium|LinkedList||
 |160|[Intersection of Two Linked Lists]()||Easy|LinkedList||
 |203|[Remove Linked List Elements]()||Easy|LinkedList||
@@ -321,6 +321,7 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange.java)||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)||Medium|[CountBits.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CountBits.java)||
 |403|[Frog Jump]()||Hard|DP||
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)||[FindTargetSumWays.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/FindTargetSumWays.java)|DP||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
 |741|[Cherry Pickup]()||Hard|DP||
 |871|[Minimum Number of Refueling Stops]()||Hard|DP||
