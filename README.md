@@ -73,6 +73,7 @@
 |92|[Reverse Linked List II]()||Medium|LinkedList||
 |138|[Copy List with Random Pointer]()||Medium|LinkedList||
 |141|[Linked List Cycle]()||Easy|LinkedList||
+|142|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle-ii/)||Medium|[GetIntersect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersect.java)||
 |143|[Reorder List]()||Medium|LinkedList||
 |160|[Intersection of Two Linked Lists]()||Easy|LinkedList||
 |203|[Remove Linked List Elements]()||Easy|LinkedList||
