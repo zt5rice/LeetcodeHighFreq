@@ -317,6 +317,7 @@
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)||Medium|[MaxProfit5.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit5.java)||
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)||Hard|[MaxCoins.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxCoins.java)||
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange.java)||
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)||Medium|[CountBits.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CountBits.java)||
 |403|[Frog Jump]()||Hard|DP||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
 |741|[Cherry Pickup]()||Hard|DP||
