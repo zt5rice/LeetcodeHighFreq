@@ -324,7 +324,7 @@
 |416|[Partition Equal Subset Sum]()||Medium|[CanPartition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CanPartition.java)||
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)||[FindTargetSumWays.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/FindTargetSumWays.java)|DP||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
-|741|[Cherry Pickup]()||Hard|DP||
+|741|[Cherry Pickup]()||Hard|DP|| 
 |871|[Minimum Number of Refueling Stops]()||Hard|DP||
 |920|[Number of Music Playlists]()||Hard|DP||
 |1220|[Count Vowels Permutation]()||Hard|DP||
