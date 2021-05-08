@@ -332,7 +332,7 @@
 |1335|[Minimum Difficulty of a Job Schedule ]()||Hard|DP||
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/)||Hard|[MinJumps4.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinJumps4.java)||
 |1359|[Count All Valid Pickup and Delivery Options]()||Hard|DP||
-
+ 
  
 ## . Design
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
