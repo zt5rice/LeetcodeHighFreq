@@ -348,7 +348,7 @@
 |588|[Design In-Memory File System]()||Hard|Design||
 |631|[Design Excel Sum Formula]()||Hard|Design||
 |642|[Design Search Autocomplete System]()||Hard|Design||
-|716|[Max Stack]()||Easy|Design||
+|716|[Max Stack]()||Easy|Design|| 
 |1348|[Tweet Counts Per Frequency]()||Medium|Design||
 |1396|[Design Underground System]()||Medium|Design||
 |1472|[Design Browser History]()||Medium|Design||
