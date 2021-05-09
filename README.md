@@ -343,6 +343,7 @@
 |295|[Find Median from Data Stream]()||Hard|Design||
 |348|[Design Tic-Tac-Toe]()||Medium|Design||
 |362|[Design Hit Counter]()||Medium|Design||
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
 |460|[LFU Cache]()||Hard|Design||
 |588|[Design In-Memory File System]()||Hard|Design||
 |631|[Design Excel Sum Formula]()||Hard|Design||
