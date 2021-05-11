@@ -101,7 +101,7 @@
 |341|[Flatten Nested List Iterator]()||Medium|Stack||
 |346|[Moving Average from Data Stream]()||Easy|Stack||
 |394|[Decode String]()||Medium|Stack||
-|503|[Next Greater Element II]()||Medium|Stack||
+|503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)||Medium|[NextGreaterElements.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/NextGreaterElements.java)||
 |636|[Exclusive Time of Functions]()||Medium|Stack||
 |735|[Asteroid Collision]()||Medium|Stack||
 |739|[Daily Temperatures ]()||Medium|Stack||
