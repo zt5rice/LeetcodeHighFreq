@@ -3,10 +3,11 @@
         "Trie",
         "Tree",
         "String",
+        "Design",
         "DP",
         "DFS",
         "BinarySearch",
         "BFS",
-        "Design"
+        "Stack"
     ]
 }
