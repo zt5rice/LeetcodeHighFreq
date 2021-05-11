@@ -106,6 +106,7 @@
 |735|[Asteroid Collision]()||Medium|Stack||
 |739|[Daily Temperatures ]()||Medium|Stack||
 |770|[Basic Calculator IV]()||Hard|Stack||
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)||Medium|[ScoreOfParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/ScoreOfParentheses.java)||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)||Medium|[MctFromLeafValues.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MctFromLeafValues.java)||
 |1209|[Remove All Adjacent Duplicates in String II]()||Medium|Stack||
 |1249|[Minimum Remove to Make Valid Parentheses]()||Medium|Stack||
