@@ -341,7 +341,7 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |146|[LRU Cache ]()||Medium|Design||
 |208|[Implement Trie (Prefix Tree)]()||Medium|Design||
-|251|[Flatten 2D Vector]()||Medium|Design||
+|251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)||Medium|[Vector2D.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Vector2D.java)||
 |295|[Find Median from Data Stream]()||Hard|Design||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)||Medium|[TicTacToe.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TicTacToe.java)||
 |362|[Design Hit Counter]()||Medium|Design||
