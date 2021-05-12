@@ -89,7 +89,7 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)||Easy|[IsValidParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/IsValidParentheses.java)||
-|71|[Simplify Path]()||Medium|Stack||
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)||Medium|[SimplifyPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/SimplifyPath.java)||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)||Hard|[LargestRectangleArea.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/LargestRectangleArea.java)||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||Hard|[MaximalRectangle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaximalRectangle.java)||
 |94|[Binary Tree Inorder Traversal]()||Medium|Stack||
