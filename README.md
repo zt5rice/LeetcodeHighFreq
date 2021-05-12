@@ -122,6 +122,7 @@
 |101|[Symmetric Tree]()||Easy|Tree||
 |102|[Binary Tree Level Order Traversal]()||Medium|Tree||
 |104|[Maximum Depth of Binary Tree]()||Easy|Tree||
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||Medium|[Connect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Connect.java)||
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||Medium|[RightSideView.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Recursion/RightSideView.java)||
 |226|[Invert Binary Tree]()||Easy|Tree||
 |236|[Lowest Common Ancestor of a Binary Tree]()||Medium|Tree||
@@ -245,7 +246,6 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)||Medium|[Jump2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Jump2.java)||
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||Medium|[Binary Tree Zigzag Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ZigzagLevelOrder.java)||
-|116|[Populating Next Right Pointers in Each Node]()||Medium|BFS||
 |126|[Word Ladder II]()||Hard|BFS||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)||Hard|[Word Ladder](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/LadderLength.java)||
 |130|[Surrounded Regions]()||Medium|BFS||
