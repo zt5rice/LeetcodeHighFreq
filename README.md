@@ -248,7 +248,6 @@
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||Medium|[Binary Tree Zigzag Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ZigzagLevelOrder.java)||
 |126|[Word Ladder II]()||Hard|BFS||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)||Hard|[Word Ladder](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/LadderLength.java)||
-|130|[Surrounded Regions]()||Medium|BFS||
 |133|[Clone Graph]()||Medium|BFS||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||Medium|[Number of Islands](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/NumIslands.java)||
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)||Medium|[Course Schedule](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CanFinish.java)||
@@ -277,6 +276,7 @@
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
 |108|[Convert Sorted Array to Binary Search Tree]()||Easy|DFS||
 |124|[Binary Tree Maximum Path Sum]()||Hard|DFS||
+|130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)||Medium|[Solve.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Solve.java)||
 |211|[Design Add and Search Words Data Structure]()||Medium|DFS||
 |329|[Longest Increasing Path in a Matrix]()||Hard|DFS||
 |332|[Reconstruct Itinerary]()||Medium|DFS||
