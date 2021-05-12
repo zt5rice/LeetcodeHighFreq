@@ -104,7 +104,7 @@
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)||Medium|[NextGreaterElements.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/NextGreaterElements.java)||
 |636|[Exclusive Time of Functions]()||Medium|Stack||
 |735|[Asteroid Collision]()||Medium|Stack||
-|739|[Daily Temperatures ]()||Medium|Stack||
+|739|[Daily Temperatures ](https://leetcode.com/problems/daily-temperatures/)||Medium|[DailyTemperatures.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/DailyTemperatures.java)||
 |770|[Basic Calculator IV]()||Hard|Stack||
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)||Medium|[ScoreOfParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/ScoreOfParentheses.java)||
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)||Medium|[StockSpanner.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/StockSpanner.java)||
