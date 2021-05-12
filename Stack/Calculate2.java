@@ -41,3 +41,14 @@ public class Calculate2 {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+227. Basic Calculator II
+Medium
+
+Given a string s which represents an expression, evaluate this expression and return its value. 
+
+The integer division should truncate toward zero.
+
+Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval().
+
+*/

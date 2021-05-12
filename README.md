@@ -343,7 +343,7 @@
 |208|[Implement Trie (Prefix Tree)]()||Medium|Design||
 |251|[Flatten 2D Vector]()||Medium|Design||
 |295|[Find Median from Data Stream]()||Hard|Design||
-|348|[Design Tic-Tac-Toe]()||Medium|Design||
+|348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)||Medium|[TicTacToe.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TicTacToe.java)||
 |362|[Design Hit Counter]()||Medium|Design||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
 |460|[LFU Cache]()||Hard|Design||
