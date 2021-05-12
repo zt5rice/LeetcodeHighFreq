@@ -28,7 +28,8 @@ class Vector2D {
     public int next() {
         // As per Java specs, throw an exception if there's no next.
         // This will also ensure the pointers point to an integer otherwise.
-        if (!hasNext()) throw new NoSuchElementException();
+        if (!hasNext())
+            throw new NoSuchElementException();
         // Return current element and move inner so that is after the current
         // element.
         return vector[outer][inner++];
@@ -47,24 +48,20 @@ class Vector2D {
         Vector2D sol = new Vector2D();
         int[][] v;
 
-        v = new int[][]{{1, 2}, {3}, {4}};
+        v = new int[][] { { 1, 2 }, { 3 }, { 4 } };
         sol.vector2D(v);
-        sol.next();    // return 1
-sol.next();    // return 2
-sol.next();    // return 3
-sol.hasNext(); // return True
-sol.hasNext(); // return True
-sol.next();    // return 4
-sol.hasNext(); // return False
+        sol.next(); // return 1
+        sol.next(); // return 2
+        sol.next(); // return 3
+        sol.hasNext(); // return True
+        sol.hasNext(); // return True
+        sol.next(); // return 4
+        sol.hasNext(); // return False
     }
-
-
 
 }
 
 /**
- * Your Vector2D object will be instantiated and called as such:
- * Vector2D obj = new Vector2D(v);
- * int param_1 = obj.next();
- * boolean param_2 = obj.hasNext();
+ * Your Vector2D object will be instantiated and called as such: Vector2D obj =
+ * new Vector2D(v); int param_1 = obj.next(); boolean param_2 = obj.hasNext();
  */
