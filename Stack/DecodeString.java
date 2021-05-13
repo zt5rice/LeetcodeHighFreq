@@ -46,3 +46,7 @@ public class DecodeString {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/decode-string/
+
+*/
