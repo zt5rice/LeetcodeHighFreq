@@ -182,7 +182,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)||Easy|[](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MajorityElement.java)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)||Medium|[Rotate0.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate0.java)||
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)||Easy|[IsHappy.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsHappy.java)||
-|204|[Count Primes]()||Easy|String||
+|204|[Count Primes](https://leetcode.com/problems/count-primes/)||Easy|[CountPrimes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountPrimes.java)||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |238|[Product of Array Except Self]()||Medium|String||
 |244|[Shortest Word Distance II]()||Medium|String||
