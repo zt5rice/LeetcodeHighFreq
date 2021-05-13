@@ -179,13 +179,13 @@
 |158|[Read N Characters Given Read4 II - Call multiple times]()||Hard|String||
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)||Medium|[FractionToDecimal.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FractionToDecimal.java)||
-|169|[Majority Element](https://leetcode.com/problems/majority-element/)||Easy|[](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MajorityElement.java)||
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)||Easy|[MajorityElement.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MajorityElement.java)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)||Medium|[Rotate0.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate0.java)||
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)||Easy|[IsHappy.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsHappy.java)||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)||Easy|[CountPrimes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountPrimes.java)||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)||Medium|[ProductExceptSelf.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ProductExceptSelf.java)||
-|244|[Shortest Word Distance II]()||Medium|String||
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)||Medium|[WordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/WordDistance.java)||
 |268|[Missing Number]()||Easy|Array||
 |273|[Integer to English Words]()||Hard|String||
 |277|[Find the Celebrity]()||Medium|Array||
