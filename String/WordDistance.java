@@ -49,3 +49,8 @@ class WordDistance {
         System.out.println("Output 2 : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/shortest-word-distance-ii/
+
+
+*/
