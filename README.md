@@ -184,7 +184,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)||Easy|[IsHappy.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsHappy.java)||
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)||Easy|[CountPrimes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountPrimes.java)||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
-|238|[Product of Array Except Self]()||Medium|String||
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)||Medium|[ProductExceptSelf.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ProductExceptSelf.java)||
 |244|[Shortest Word Distance II]()||Medium|String||
 |268|[Missing Number]()||Easy|Array||
 |273|[Integer to English Words]()||Hard|String||
