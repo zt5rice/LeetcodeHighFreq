@@ -179,9 +179,9 @@
 |158|[Read N Characters Given Read4 II - Call multiple times]()||Hard|String||
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/submissions/)||Easy|[FindMissingRanges.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindMissingRanges.java)||
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)||Medium|[FractionToDecimal.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FractionToDecimal.java)||
-|169|[Majority Element]()||Easy|String||
+|169|[Majority Element](https://leetcode.com/problems/majority-element/)||Easy|[](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MajorityElement.java)||
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)||Medium|[Rotate0.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Rotate0.java)||
-|202|[Happy Number]()||Easy|String||
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)||Easy|[IsHappy.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsHappy.java)||
 |204|[Count Primes]()||Easy|String||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |238|[Product of Array Except Self]()||Medium|String||

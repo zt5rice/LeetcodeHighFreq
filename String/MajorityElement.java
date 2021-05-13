@@ -26,3 +26,8 @@ public class MajorityElement {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/majority-element/
+
+
+*/
