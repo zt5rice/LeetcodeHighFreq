@@ -101,7 +101,7 @@
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||Medium|[Calculate2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/Calculate2.java)||
 |341|[Flatten Nested List Iterator]()||Medium|Stack||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)||Easy|[MovingAverage.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MovingAverage.java)||
-|394|[Decode String]()||Medium|Stack||
+|394|[Decode String](https://leetcode.com/problems/decode-string/)||Medium|[DecodeString.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/DecodeString.java)||
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)||Medium|[NextGreaterElements.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/NextGreaterElements.java)||
 |636|[Exclusive Time of Functions]()||Medium|Stack||
 |735|[Asteroid Collision]()||Medium|Stack||
