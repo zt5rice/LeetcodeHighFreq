@@ -195,7 +195,6 @@
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||Medium|[topKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/topKFrequent.java)||
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/)||Medium|[IsReflected.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsReflected.java)||
-|359|[Logger Rate Limiter]()||Easy|String||
 |380|[Insert Delete GetRandom O(1)]()||Medium|String||
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed]()||Hard|String||
 |387|[First Unique Character in a String]()||Easy|String||
@@ -346,7 +345,8 @@
 |295|[Find Median from Data Stream]()||Hard|Design||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)||Medium|[TicTacToe.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TicTacToe.java)||
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)||Medium|[Twitter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Twitter.java)||
-|362|[Design Hit Counter]()||Medium|Design||
+|359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)||Easy|[Logger.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Logger.java)||
+|362|[Design Hit Counter]()||Medium|[]()||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
 |460|[LFU Cache]()||Hard|Design||
 |588|[Design In-Memory File System]()||Hard|Design||
