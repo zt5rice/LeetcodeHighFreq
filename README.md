@@ -198,7 +198,7 @@
 |380|[Insert Delete GetRandom O(1)]()||Medium|String||
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed]()||Hard|String||
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)||Easy|[FirstUniqChar.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FirstUniqChar.java)||
-|415|[Add Strings]()||Easy|String||
+|415|[Add Strings](https://leetcode.com/problems/add-strings/)||Easy|[AddStrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AddStrings.java)||
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 |442|[Find All Duplicates in an Array]()||Medium|String||
 |443|[String Compression]()||Medium|String||
