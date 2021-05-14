@@ -187,7 +187,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)||Medium|[ProductExceptSelf.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ProductExceptSelf.java)||
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)||Medium|[WordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/WordDistance.java)||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)||Easy|[MissingNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MissingNumber.java)||
-|273|[Integer to English Words]()||Hard|String||
+|273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||Hard|[NumberToWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumberToWords.java)||
 |277|[Find the Celebrity]()||Medium|Array||
 |283|[Move Zeroes]()||Easy|String||
 |289|[Game of Life]()||Medium|String||
