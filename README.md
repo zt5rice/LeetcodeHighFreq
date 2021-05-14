@@ -193,8 +193,7 @@
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)||Medium|[GameOfLife.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/GameOfLife.java)||
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)||Medium|[LengthOfLongestSubstringKDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LengthOfLongestSubstringKDistinct.java)||
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
-|347|[Top K Frequent Elements]()||Medium|String||
-|355|[Design Twitter]()||Medium|String||
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||Medium|[topKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/topKFrequent.java)||
 |356|[Line Reflection]()||Medium|String||
 |359|[Logger Rate Limiter]()||Easy|String||
 |380|[Insert Delete GetRandom O(1)]()||Medium|String||
@@ -346,6 +345,7 @@
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)||Medium|[Vector2D.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Vector2D.java)||
 |295|[Find Median from Data Stream]()||Hard|Design||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)||Medium|[TicTacToe.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TicTacToe.java)||
+|355|[Design Twitter](https://leetcode.com/problems/design-twitter/)||Medium|[Twitter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Twitter.java)||
 |362|[Design Hit Counter]()||Medium|Design||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
 |460|[LFU Cache]()||Hard|Design||
