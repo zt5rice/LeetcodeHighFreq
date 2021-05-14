@@ -189,7 +189,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)||Easy|[MissingNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MissingNumber.java)||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||Hard|[NumberToWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumberToWords.java)||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)||Medium|[FindCelebrity.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindCelebrity.java)||
-|283|[Move Zeroes]()||Easy|String||
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)||Easy|[MoveZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MoveZeroes.java)||
 |289|[Game of Life]()||Medium|String||
 |340|[Longest Substring with At Most K Distinct Characters]()||Medium|String||
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
