@@ -188,7 +188,7 @@
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)||Medium|[WordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/WordDistance.java)||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)||Easy|[MissingNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MissingNumber.java)||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||Hard|[NumberToWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumberToWords.java)||
-|277|[Find the Celebrity]()||Medium|Array||
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)||Medium|[FindCelebrity.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindCelebrity.java)||
 |283|[Move Zeroes]()||Easy|String||
 |289|[Game of Life]()||Medium|String||
 |340|[Longest Substring with At Most K Distinct Characters]()||Medium|String||
