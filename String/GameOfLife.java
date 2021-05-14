@@ -48,3 +48,8 @@ public class GameOfLife {
         System.out.println("Output : " + Arrays.deepToString(board));
     }
 }
+/*abstract
+
+https://leetcode.com/problems/game-of-life/
+
+*/
