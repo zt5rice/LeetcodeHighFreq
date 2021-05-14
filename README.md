@@ -194,7 +194,7 @@
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)||Medium|[LengthOfLongestSubstringKDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LengthOfLongestSubstringKDistinct.java)||
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||Medium|[topKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/topKFrequent.java)||
-|356|[Line Reflection]()||Medium|String||
+|356|[Line Reflection](https://leetcode.com/problems/line-reflection/)||Medium|[IsReflected.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsReflected.java)||
 |359|[Logger Rate Limiter]()||Easy|String||
 |380|[Insert Delete GetRandom O(1)]()||Medium|String||
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed]()||Hard|String||
