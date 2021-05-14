@@ -27,3 +27,7 @@ public class MoveZeroes {
         System.out.println("Output : " + Arrays.toString(nums));
     }
 }
+/*abstract
+https://leetcode.com/problems/move-zeroes/
+
+*/
