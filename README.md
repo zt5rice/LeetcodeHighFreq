@@ -222,7 +222,7 @@
 |723|[Candy Crush]()||Medium|String||
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)||Easy|[PivotIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PivotIndex.java)||
 |729|[My Calendar I]()||Medium|String||
-|811|[Subdomain Visit Count]()||Easy|String||
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)||Easy|[SubdomainVisits.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubdomainVisits.java)||
 |937|[Reorder Data in Log Files]()||Easy|String||
 |953|[Verifying an Alien Dictionary]()||Easy|String||
 |974|[Subarray Sums Divisible by K]()||Medium|String||
