@@ -218,7 +218,7 @@
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||Easy|[ValidPalindrome2.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ValidPalindrome2.java)||
 |692|[Top K Frequent Words]()||Medium|String||
 |695|[Max Area of Island]()||Medium|String||
-|696|[Count Binary Substrings]()||Easy|String||
+|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)||Easy|[CountBinarySubstrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountBinarySubstrings.java)||
 |723|[Candy Crush]()||Medium|String||
 |724|[Find Pivot Index]()||Easy|String||
 |729|[My Calendar I]()||Medium|String||
