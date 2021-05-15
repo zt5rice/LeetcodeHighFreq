@@ -43,3 +43,7 @@ public class CountBinarySubstrings {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/count-binary-substrings/
+
+*/

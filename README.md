@@ -220,7 +220,7 @@
 |695|[Max Area of Island]()||Medium|String||
 |696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)||Easy|[CountBinarySubstrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountBinarySubstrings.java)||
 |723|[Candy Crush]()||Medium|String||
-|724|[Find Pivot Index]()||Easy|String||
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)||Easy|[](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/)||
 |729|[My Calendar I]()||Medium|String||
 |811|[Subdomain Visit Count]()||Easy|String||
 |937|[Reorder Data in Log Files]()||Easy|String||
