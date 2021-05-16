@@ -44,3 +44,7 @@ public class IsAlienSorted {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+
+https://leetcode.com/problems/verifying-an-alien-dictionary/
+*/
