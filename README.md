@@ -7,7 +7,7 @@
 |29|[Divide Two Integers]()||Medium|Binary Search||
 |33|[Search in Rotated Sorted Array]()||Medium|Binary Search||
 |34|[Find First and Last Position of Element in Sorted Array]()||Medium|Binary Search||
-|50|[Pow(x, n)]()||Medium|Binary Search||
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)||Medium|[myPow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/myPow.java)||
 |69|[Sqrt(x)]()||Easy|Binary Search||
 |74|[Search a 2D Matrix]()||Medium|Binary Search||
 |162|[Find Peak Element]()||Medium|Binary Search||
@@ -224,7 +224,7 @@
 |729|[My Calendar I]()||Medium|String||
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)||Easy|[SubdomainVisits.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubdomainVisits.java)||
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)||Easy|[ReorderLogFiles.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReorderLogFiles.java)|| 
-|953|[Verifying an Alien Dictionary]()||Easy|String||
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)||Easy|[IsAlienSorted.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsAlienSorted.java)||
 |974|[Subarray Sums Divisible by K]()||Medium|String||
 |1010|[Pairs of Songs With Total Durations Divisible by 60]()||Medium|String||
 |1048|[Longest String Chain]()||Medium|String||
