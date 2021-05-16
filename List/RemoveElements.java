@@ -53,3 +53,9 @@ public class RemoveElements {
         System.out.println("Output : " + Arrays.toString(resint));
       }
 }
+/*abstract
+
+
+https://leetcode.com/problems/remove-linked-list-elements/
+
+*/
