@@ -24,3 +24,7 @@ public class MySqrt {
       System.out.println("[x , sqrt(x)] : " + x + " , " + res);
   }
 }
+/*abstract
+https://leetcode.com/problems/sqrtx/
+
+*/

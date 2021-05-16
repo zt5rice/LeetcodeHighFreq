@@ -8,13 +8,13 @@
 |33|[Search in Rotated Sorted Array]()||Medium|Binary Search||
 |34|[Find First and Last Position of Element in Sorted Array]()||Medium|Binary Search||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)||Medium|[myPow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/myPow.java)||
-|69|[Sqrt(x)]()||Easy|Binary Search||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)||Easy|[MySqrt.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MySqrt.java)||
 |74|[Search a 2D Matrix]()||Medium|Binary Search||
 |162|[Find Peak Element]()||Medium|Binary Search||
 |209|[Minimum Size Subarray Sum]()||Medium|Binary Search||
 |230|[Kth Smallest Element in a BST]()||Medium|Binary Search||
 |240|[Search a 2D Matrix II]()||Medium|Binary Search||
-|278|[First Bad Version]()||Easy|Binary Search||
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/submissions/)||Easy|[FirstBadVersion.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/FirstBadVersion.java)||
 |287|[Find the Duplicate Number]()||Medium|Binary Search||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)||Medium|[Longest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Longest.java)||
 |315|[Count of Smaller Numbers After Self]()||Hard|Binary Search||
