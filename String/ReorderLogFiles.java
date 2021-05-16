@@ -37,3 +37,7 @@ public static void main(String[] args) {
     System.out.println("Output  : " + Arrays.deepToString(logs));
 }
 }
+/*abstract
+
+https://leetcode.com/problems/reorder-data-in-log-files/
+*/
