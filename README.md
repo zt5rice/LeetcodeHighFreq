@@ -37,7 +37,6 @@
 |75|[Sort Colors]()||Medium|Sorting||
 |148|[Sort List]()||Medium|Sorting||
 |179|[Largest Number]()||Medium|Sorting||
-|242|[Valid Anagram]()||Easy|Sorting||
 |253|[Meeting Rooms II]()||Medium|Sorting||
 |324|[Wiggle Sort II]()||Medium|Sorting||
 |767|[Reorganize String ]()||Medium|Sorting||
@@ -184,6 +183,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)||Easy|[CountPrimes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountPrimes.java)||
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)||Medium|[ProductExceptSelf.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ProductExceptSelf.java)||
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)||Easy|[IsAnagram.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsAnagram.java)||
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)||Medium|[WordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/WordDistance.java)||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)||Easy|[MissingNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MissingNumber.java)||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||Hard|[NumberToWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumberToWords.java)||
