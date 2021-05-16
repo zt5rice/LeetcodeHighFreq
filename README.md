@@ -73,7 +73,7 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)||Easy|[HasCycle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/HasCycle.java)||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||Medium|[GetIntersect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersect.java)||
 |143|[Reorder List]()||Medium|LinkedList||
-|160|[Intersection of Two Linked Lists]()||Easy|LinkedList||
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)||Easy|[GetIntersectionNode.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersectionNode.java)||
 |203|[Remove Linked List Elements]()||Easy|LinkedList||
 |206|[Reverse Linked List]()||Easy|LinkedList||
 |234|[Palindrome Linked List]()||Easy|LinkedList||
