@@ -56,3 +56,9 @@ public class ReverseList {
         System.out.println("Output : " + Arrays.toString(resint));
     }
 }
+/*abstract
+
+
+https://leetcode.com/problems/reverse-linked-list/
+
+*/
