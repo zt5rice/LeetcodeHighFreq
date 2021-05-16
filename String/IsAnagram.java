@@ -1,4 +1,3 @@
-import jdk.incubator.jpackage.main.Main;
 
 public class IsAnagram {
     public boolean isAnagram(String s, String t) {

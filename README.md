@@ -53,7 +53,6 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |17|[Letter Combinations of a Phone Number]()||Medium|Recursion||
-|21|[Merge Two Sorted Lists]()||Easy|Recursion||
 |395|[Longest Substring with At Least K Repeating Characters ]()||Medium|Recursion||
 |698|[Partition to K Equal Sum Subsets]()||Medium|Recursion||
 |726|[Number of Atoms]()||Hard|Recursion||
@@ -65,6 +64,7 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |2|[Add Two Numbers]()||Medium|LinkedList||
 |19|[Remove Nth Node From End of List]()||Medium|LinkedList||
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||Easy|[MergeTwoLists.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/MergeTwoLists.java)||
 |23|[Merge k Sorted Lists]()||Hard|LinkedList||
 |25|[Reverse Nodes in k-Group]()||Hard|LinkedList||
 |86|[Partition List]()||Medium|LinkedList||
