@@ -68,3 +68,7 @@ public class IsPalindromeList {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/palindrome-linked-list/
+
+*/
