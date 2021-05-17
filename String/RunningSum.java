@@ -19,3 +19,6 @@ public class RunningSum {
         System.out.println("Output : " + Arrays.toString(res));
     }
 }
+/*abstract
+https://leetcode.com/problems/running-sum-of-1d-array/
+*/

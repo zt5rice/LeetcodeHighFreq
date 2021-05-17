@@ -121,6 +121,7 @@
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)||Easy|[IsSymmetric.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/IsSymmetric.java)||
 |102|[Binary Tree Level Order Traversal]()||Medium|Tree||
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Easy|[MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java)||
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)||Easy|[SortedArrayToBST.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/SortedArrayToBST.java)||
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||Medium|[Connect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Connect.java)||
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||Medium|[RightSideView.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Recursion/RightSideView.java)||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)||Easy|[InvertTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InvertTree.java)||
@@ -234,7 +235,7 @@
 |1423|[Maximum Points You Can Obtain from Cards]()||Medium|String||
 |1428|[Leftmost Column with at Least a One]()||Medium|String||
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]()||Medium|String||
-|1480|[Running Sum of 1d Array]()||Easy|String||
+|1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)||Easy|[RunningSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RunningSum.java)||
 |1531|[String Compression II]()||Hard|String||
 |1570|[Dot Product of Two Sparse Vectors]()||Medium|String||
 
@@ -273,7 +274,6 @@
 |79|[Word Search](https://leetcode.com/problems/word-search/solution/)||Medium|[WordSearch.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/WordSearch.java)||
 |99|[Recover Binary Search Tree]()||Hard|DFS||
 |105|[Construct Binary Tree from Preorder and Inorder Traversal]()||Medium|DFS||
-|108|[Convert Sorted Array to Binary Search Tree]()||Easy|DFS||
 |124|[Binary Tree Maximum Path Sum]()||Hard|DFS||
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)||Medium|[Solve.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Solve.java)||
 |211|[Design Add and Search Words Data Structure]()||Medium|DFS||
