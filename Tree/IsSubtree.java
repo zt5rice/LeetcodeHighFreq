@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class IsSubtree {
@@ -43,3 +42,6 @@ public class IsSubtree {
         System.out.println("Is subtree ? " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/subtree-of-another-tree/
+*/
