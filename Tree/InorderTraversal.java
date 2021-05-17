@@ -30,3 +30,6 @@ public class InorderTraversal {
         System.out.println("Output : " + Arrays.toString(res.toArray()));
     }
 }
+/*abstract
+https://leetcode.com/problems/binary-tree-inorder-traversal/
+*/
