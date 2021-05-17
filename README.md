@@ -90,7 +90,6 @@
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)||Medium|[SimplifyPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/SimplifyPath.java)||
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)||Hard|[LargestRectangleArea.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/LargestRectangleArea.java)||
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||Hard|[MaximalRectangle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaximalRectangle.java)||
-|94|[Binary Tree Inorder Traversal]()||Medium|Stack||
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||Medium|[EvalRPN.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/EvalRPN.java)||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)||Easy|[MinStack.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MinStack.java)||
 |173|[Binary Search Tree Iterator]()||Medium|Stack||
@@ -117,6 +116,7 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| | Medium | [Binary Tree Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Tree/LevelOrder.java) | ----------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | Easy | [MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java) | ----------- |
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)||Medium|[InorderTraversal.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InorderTraversal.java)||
 |98|[Validate Binary Search Tree]()||Medium|Tree||
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)||Easy|[IsSymmetric.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/IsSymmetric.java)||
 |102|[Binary Tree Level Order Traversal]()||Medium|Tree||
