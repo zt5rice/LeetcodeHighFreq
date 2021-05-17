@@ -33,7 +33,7 @@ public class ConstructTree {
             } else {
                 i++;
             }
-            if (array[i] != null) {
+            if (i < array.length && array[i] != null) {
                 if (processing.right == null) {
                     TreeNode right = new TreeNode(array[i]);
                     processing.right = right;
