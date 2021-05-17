@@ -123,7 +123,7 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)||Easy|[MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java)||
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||Medium|[Connect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Connect.java)||
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||Medium|[RightSideView.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Recursion/RightSideView.java)||
-|226|[Invert Binary Tree]()||Easy|Tree||
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)||Easy|[InvertTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InvertTree.java)||
 |236|[Lowest Common Ancestor of a Binary Tree]()||Medium|Tree||
 |285|[Inorder Successor in BST]()||Medium|Tree||
 |297|[Serialize and Deserialize Binary Tree]()||Hard|Tree||

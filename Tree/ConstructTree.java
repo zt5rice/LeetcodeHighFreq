@@ -43,7 +43,7 @@ public class ConstructTree {
         }
         return root;
     }
-    private Integer[] destructTree(TreeNode root) {
+    public Integer[] destructTree(TreeNode root) {
         if (root == null || root.key == null) {
             Integer[] rst = new Integer[1];
             rst[0] = null;
