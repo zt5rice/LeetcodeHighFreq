@@ -118,7 +118,7 @@
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| | Medium | [Binary Tree Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Tree/LevelOrder.java) | ----------- |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  | Easy | [MaxDepth.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/MaxDepth.java) | ----------- |
 |98|[Validate Binary Search Tree]()||Medium|Tree||
-|101|[Symmetric Tree]()||Easy|Tree||
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)||Easy|[IsSymmetric.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/IsSymmetric.java)||
 |102|[Binary Tree Level Order Traversal]()||Medium|Tree||
 |104|[Maximum Depth of Binary Tree]()||Easy|Tree||
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)||Medium|[Connect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Connect.java)||
