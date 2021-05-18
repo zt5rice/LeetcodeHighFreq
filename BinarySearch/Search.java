@@ -42,3 +42,6 @@ public class Search {
         System.out.println("Result : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/search-in-rotated-sorted-array/
+*/
