@@ -18,3 +18,6 @@ public class Divide {
         System.out.println(dividend + "/" + divisor + "=" + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/divide-two-integers/
+*/

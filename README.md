@@ -4,8 +4,8 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |4|[Median of Two Sorted Arrays]()||Hard|Binary Search||
-|29|[Divide Two Integers]()||Medium|Binary Search||
-|33|[Search in Rotated Sorted Array]()||Medium|Binary Search||
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)||Medium|[Divide.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Divide.java)||
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)||Medium|[Search.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Search.java)||
 |34|[Find First and Last Position of Element in Sorted Array]()||Medium|Binary Search||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)||Medium|[myPow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/myPow.java)||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)||Easy|[MySqrt.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MySqrt.java)||
