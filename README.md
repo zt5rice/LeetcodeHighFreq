@@ -248,13 +248,13 @@
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)||Medium|[Binary Tree Zigzag Level Order Traversal](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ZigzagLevelOrder.java)||
 |126|[Word Ladder II]()||Hard|BFS||
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/)||Hard|[Word Ladder](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/LadderLength.java)||
-|133|[Clone Graph]()||Medium|BFS||
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)||Medium|[CloneGraph.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CloneGraph.java)||
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)||Medium|[Number of Islands](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/NumIslands.java)||
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)||Medium|[Course Schedule](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CanFinish.java)||
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)||Medium|[Course Schedule II](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/FindOrder.java)||
-|286|[Walls and Gates]()||Medium|BFS||
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)||Medium|[WallsAndGates.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/WallsAndGates.java)||
 |301|[Remove Invalid Parentheses]()||Hard|BFS||
-|323|[Number of Connected Components in an Undirected Graph]()||Medium|BFS||
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/solution/)||Medium|[CountComponents.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CountComponents.java)||
 |339|[Nested List Weight Sum]()||Medium|BFS||
 |417|[Pacific Atlantic Water Flow]()||Medium|BFS||
 |529|[Minesweeper]()||Medium|BFS||

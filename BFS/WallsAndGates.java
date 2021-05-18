@@ -48,3 +48,8 @@ public class WallsAndGates {
         System.out.println("Output : " + Arrays.deepToString(rooms));
     }
 }
+/*abstract
+
+https://leetcode.com/problems/walls-and-gates/
+
+*/
