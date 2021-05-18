@@ -260,7 +260,7 @@
 |529|[Minesweeper]()||Medium|BFS||
 |752|[Open the Lock]()||Medium|BFS||
 |909|[Snakes and Ladders]()||Medium|BFS||
-|994|[Rotting Oranges]()||Medium|BFS||
+|994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||Medium|[OrangesRotting.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OrangesRotting.java)||
 |1197|[Minimum Knight Moves]()||Medium|BFS||
 |1242|[Web Crawler Multithreaded]()||Medium|BFS||
 |1293|[Shortest Path in a Grid with Obstacles Elimination]()||Hard|BFS||
