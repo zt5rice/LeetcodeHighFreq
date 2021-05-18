@@ -23,7 +23,7 @@ public class BuildTree {
     }     
     
     public static void main(String[] args) {
-        BuildTree sol = new BuildTree();
+        BuildTree105 sol = new BuildTree105();
         ConstructTree r = new ConstructTree();
         int[] preorder, inorder;
         TreeNode res;
