@@ -32,3 +32,6 @@ public class IsValidBST {
         System.out.println("Output : " + res);
     }
 }
+/*abstract
+https://leetcode.com/problems/validate-binary-search-tree/
+*/

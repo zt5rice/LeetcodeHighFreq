@@ -52,7 +52,6 @@
 ## . Recursion
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|17|[Letter Combinations of a Phone Number]()||Medium|Recursion||
 |395|[Longest Substring with At Least K Repeating Characters ]()||Medium|Recursion||
 |698|[Partition to K Equal Sum Subsets]()||Medium|Recursion||
 |726|[Number of Atoms]()||Hard|Recursion||
@@ -270,6 +269,7 @@
 ## . DFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)||Medium|[LetterCombinations.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/LetterCombinations.java)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)||Medium|[GenerateParenthesis.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/GenerateParenthesis.java)||
 |78|[Subsets](https://leetcode.com/problems/subsets/)||Medium|[Subsets0.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Subsets0.java)||
 |79|[Word Search](https://leetcode.com/problems/word-search/solution/)||Medium|[WordSearch.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/WordSearch.java)||
