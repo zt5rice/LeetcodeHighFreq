@@ -1,6 +1,9 @@
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Deque;
+import java.util.LinkedList;
+import java.util.List;
 
-import javax.swing.tree.TreeNode;
 public class ZigzagLevelOrder {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<List<Integer>>();
@@ -17,7 +20,7 @@ public class ZigzagLevelOrder {
             while (sz > 0) {      
                 if (layer == 0) {                
                     TreeNode tmp = deque.pollFirst();
-                    curLayer.add(tmp.val);
+                    curLayer.add(tmp.key);
                     if (tmp.left != null) {
                         deque.offerLast(tmp.left);
                     }
@@ -26,7 +29,7 @@ public class ZigzagLevelOrder {
                     }
                 } else {
                     TreeNode tmp = deque.pollLast();
-                    curLayer.add(tmp.val);
+                    curLayer.add(tmp.key);
                     if (tmp.right != null) {
                         deque.offerFirst(tmp.right);
                     }
@@ -41,4 +44,18 @@ public class ZigzagLevelOrder {
         }
         return res;
     }    
+
+    public static void main(String[] args) {
+        ZigzagLevelOrder sol = new ZigzagLevelOrder();
+        ConstructTree construct = new ConstructTree();
+        Integer[] treeInt;
+        List<List<Integer>> res;
+        TreeNode root;
+
+        treeInt = new Integer[]{3,9,20,null,null,15,7};
+        root = construct.constructTree(treeInt);
+        res = sol.zigzagLevelOrder(root);
+        System.out.println("Input  : " + Arrays.toString(treeInt));
+        System.out.println("Output : " + Arrays.deepToString(res.toArray()));
+    }
 }
