@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class Rotate {
+    // Method - 1, TC/SC: o(N2)
     public void rotate(int[][] matrix) {
         int n = matrix.length;
 
@@ -22,7 +23,7 @@ public class Rotate {
         }
     }
 
-    // best vesion by Yan
+    // best vesion by Yan, Method - 2, TC: o(N2), SC: O(1)
     public void rotateBest(int[][] matrix) {
         int n = matrix.length;
         if (n <= 1) {
@@ -41,7 +42,6 @@ public class Rotate {
             }
         }
     }
-
     //
     public static void main(String[] args) {
         Rotate sol = new Rotate();
