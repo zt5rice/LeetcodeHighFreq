@@ -347,7 +347,7 @@
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)||Medium|[TicTacToe.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TicTacToe.java)||
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)||Medium|[Twitter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Twitter.java)||
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)||Easy|[Logger.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Logger.java)||
-|362|[Design Hit Counter]()||Medium|[]()||
+|362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)||Medium|[HitCounter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/HitCounter.java)||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
 |460|[LFU Cache]()||Hard|Design||
 |588|[Design In-Memory File System]()||Hard|Design||
