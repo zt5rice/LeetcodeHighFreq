@@ -340,7 +340,7 @@
 ## . Design
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|146|[LRU Cache ]()||Medium|Design||
+|146|[LRU Cache ](https://leetcode.com/problems/lru-cache/)||Medium|[LRUCache.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/LRUCache.java)]||
 |208|[Implement Trie (Prefix Tree)]()||Medium|Design||
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)||Medium|[Vector2D.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Vector2D.java)||
 |295|[Find Median from Data Stream]()||Hard|Design||
