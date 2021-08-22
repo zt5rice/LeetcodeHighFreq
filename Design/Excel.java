@@ -148,5 +148,5 @@ Constraints:
 numbers[i] has the format "ColRow" or "ColRow1:ColRow2".
 At most 100 calls will be made to set, get, and sum.
 
-Method: topological sort
+Method: topological sort, too slow, outdated
 */
