@@ -350,7 +350,7 @@
 |362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)||Medium|[HitCounter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/HitCounter.java)||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
 |460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)||Hard|[LFUCache.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/LFUCache.java)||
-|588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)||Hard|[https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/FileSystem.java]||
+|588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)||Hard|[FileSystem.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/FileSystem.java)||
 |631|[Design Excel Sum Formula]()||Hard|Design||
 |642|[Design Search Autocomplete System]()||Hard|Design||
 |716|[Max Stack](https://leetcode.com/problems/max-stack/)||Easy|[MaxStack.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/MaxStack.java)|| 
