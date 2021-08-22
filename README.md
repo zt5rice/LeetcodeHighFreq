@@ -343,14 +343,14 @@
 |146|[LRU Cache ](https://leetcode.com/problems/lru-cache/)||Medium|[LRUCache.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/LRUCache.java)]||
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)||Medium|[Trie.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Trie/Trie.java)||
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)||Medium|[Vector2D.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Vector2D.java)||
-|295|[Find Median from Data Stream]()||Hard|Design||
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)||Hard|[MedianFinder.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/MedianFinder.java)||
 |348|[Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/)||Medium|[TicTacToe.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TicTacToe.java)||
 |355|[Design Twitter](https://leetcode.com/problems/design-twitter/)||Medium|[Twitter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Twitter.java)||
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)||Easy|[Logger.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Logger.java)||
 |362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter/)||Medium|[HitCounter.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/HitCounter.java)||
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/)||Medium|[Shuffle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Shuffle.java)||
-|460|[LFU Cache]()||Hard|Design||
-|588|[Design In-Memory File System]()||Hard|Design||
+|460|[LFU Cache](https://leetcode.com/problems/lfu-cache/)||Hard|[LFUCache.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/LFUCache.java)||
+|588|[Design In-Memory File System](https://leetcode.com/problems/design-in-memory-file-system/)||Hard|[https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/FileSystem.java]||
 |631|[Design Excel Sum Formula]()||Hard|Design||
 |642|[Design Search Autocomplete System]()||Hard|Design||
 |716|[Max Stack](https://leetcode.com/problems/max-stack/)||Easy|[MaxStack.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/MaxStack.java)|| 
