@@ -356,7 +356,7 @@
 |716|[Max Stack](https://leetcode.com/problems/max-stack/)||Easy|[MaxStack.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/MaxStack.java)|| 
 |1348|[Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)||Medium|[TweetCounts.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TweetCounts.java)||
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system/submissions/)||Medium|[UndergroundSystem.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/UndergroundSystem.java)||
-|1472|[Design Browser History]()||Medium|Design||
+|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/)||Medium|[BrowserHistory.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/BrowserHistory.java)||
 
 
 ## . Trie
