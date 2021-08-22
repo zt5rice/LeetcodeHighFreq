@@ -354,7 +354,7 @@
 |631|[Design Excel Sum Formula](https://leetcode.com/problems/design-excel-sum-formula/)||Hard|[Excel.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/Excel.java)||
 |642|[Design Search Autocomplete System](https://leetcode.com/problems/design-search-autocomplete-system/)||Hard|[AutocompleteSystem.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/AutocompleteSystem.java)|[pages](https://leetcode.com/problems/design-search-autocomplete-system/discuss/105376/Java-solution-Trie-and-PriorityQueue)|
 |716|[Max Stack](https://leetcode.com/problems/max-stack/)||Easy|[MaxStack.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/MaxStack.java)|| 
-|1348|[Tweet Counts Per Frequency]()||Medium|Design||
+|1348|[Tweet Counts Per Frequency](https://leetcode.com/problems/tweet-counts-per-frequency/)||Medium|[TweetCounts.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/TweetCounts.java)||
 |1396|[Design Underground System]()||Medium|Design||
 |1472|[Design Browser History]()||Medium|Design||
 
