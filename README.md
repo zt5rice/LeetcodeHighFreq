@@ -3,7 +3,7 @@
 ## . Binary Search
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|4|[Median of Two Sorted Arrays]()||Hard|Binary Search||
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)||Hard|[FindMedianSortedArrays.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/FindMedianSortedArrays.java)||
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)||Medium|[Divide.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Divide.java)||
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)||Medium|[Search.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Search.java)||
 |34|[Find First and Last Position of Element in Sorted Array]()||Medium|Binary Search||
