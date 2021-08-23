@@ -1,3 +1,5 @@
+import java.util.*;
+
 public class FindMaximumXOR {
     public int findMaximumXOR(int[] nums) {
         int max = 0, mask = 0;
@@ -24,6 +26,34 @@ public class FindMaximumXOR {
         return max;
     }
     public static void main(String[] args) {
+        FindMaximumXOR sol = new FindMaximumXOR();
+        int[] nums;
+        int res;
+
+        nums = new int[]{3,10,5,25,2,8};
+        res = sol.findMaximumXOR(nums);
+        System.out.println("Input : " + Arrays.toString(nums));
+        System.out.format("Result : %d%n%n", res);
+
+        nums = new int[]{0};
+        res = sol.findMaximumXOR(nums);
+        System.out.println("Input : " + Arrays.toString(nums));
+        System.out.format("Result : %d%n%n", res);
+        
+        nums = new int[]{2,4};
+        res = sol.findMaximumXOR(nums);
+        System.out.println("Input : " + Arrays.toString(nums));
+        System.out.format("Result : %d%n%n", res);
+        
+        nums = new int[]{8,10,2};
+        res = sol.findMaximumXOR(nums);
+        System.out.println("Input : " + Arrays.toString(nums));
+        System.out.format("Result : %d%n%n", res);
+        
+        nums = new int[]{14,70,53,83,49,91,36,80,92,51,66,70};
+        res = sol.findMaximumXOR(nums);
+        System.out.println("Input : " + Arrays.toString(nums));
+        System.out.format("Result : %d%n%n", res);
         
     }
 }
