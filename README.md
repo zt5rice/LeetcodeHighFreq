@@ -40,7 +40,7 @@
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)||Medium|[MinMeetingRooms.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MinMeetingRooms.java)||
 |324|[Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)||Medium|[WiggleSort.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/WiggleSort.java)||
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)||Medium|[Reorganizestring.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/Reorganizestring.java)||
-|973|[K Closest Points to Origin]()||Medium|Sorting||
+|973|[K Closest Points to Origin]()||Medium|[KClosest.java](KClosest.java)||
 |1152|[Analyze User Website Visit Pattern]()||Medium|Sorting||
 |1229|[Meeting Scheduler]()||Medium|Sorting||
 |1244|[Design A Leaderboard]()||Medium|Sorting||
