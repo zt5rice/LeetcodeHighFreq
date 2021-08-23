@@ -35,7 +35,7 @@
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)||Medium|[MergeIntervals.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MergeIntervals.java)||
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)||Medium|[SortColors.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/SortColors.java)||
-|148|[Sort List]()||Medium|Sorting||
+|148|[Sort List](SortList.java)||Medium|[SortList.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/SortList.java)||
 |179|[Largest Number]()||Medium|Sorting||
 |253|[Meeting Rooms II]()||Medium|Sorting||
 |324|[Wiggle Sort II]()||Medium|Sorting||
