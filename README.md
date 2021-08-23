@@ -42,7 +42,7 @@
 |767|[Reorganize String](https://leetcode.com/problems/reorganize-string/)||Medium|[Reorganizestring.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/Reorganizestring.java)||
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)||Medium|[KClosest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/KClosest.java)||
 |1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)||Medium|[MostVisitedPattern.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MostVisitedPattern.java)||
-|1229|[Meeting Scheduler]()||Medium|Sorting||
+|1229|[Meeting Scheduler]()||Medium|[MinAvailableDuration.java](MinAvailableDuration.java)||
 |1244|[Design A Leaderboard]()||Medium|Sorting||
 |1353|[Maximum Number of Events That Can Be Attended]()||Medium|Sorting||
 |1383|[Maximum Performance of a Team]()||Hard|Sorting||
