@@ -369,6 +369,6 @@
 |472|[Concatenated Words]()||Hard|Trie||
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)||Medium|[Trie.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Trie/Trie.java)||
 |336|[Palindrome Pairs]()||Hard|Trie||
-|421|[Maximum XOR of Two Numbers in an Array]()||Medium|Trie||
-|676|[Implement Magic Dictionary]()||Medium|Trie||
+|421|[Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)||Medium|[findMaximumXOR.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Trie/findMaximumXOR.java)||
+|676|[Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/)||Medium|[MagicDictionary.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Trie/MagicDictionary.java)||
 |425|[Word Squares]()||Hard|Trie||
