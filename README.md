@@ -33,7 +33,7 @@
 ## . Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|56|[Merge Intervals]()||Medium|Sorting||
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)||Medium|[MergeIntervals.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MergeIntervals.java)||
 |75|[Sort Colors]()||Medium|Sorting||
 |148|[Sort List]()||Medium|Sorting||
 |179|[Largest Number]()||Medium|Sorting||

@@ -4,11 +4,12 @@
         "Tree",
         "String",
         "Stack",
+        "List",
         "Design",
         "DP",
         "DFS",
         "BinarySearch",
         "BFS",
-        "List"
+        "Sorting"
     ]
 }
