@@ -1,3 +1,4 @@
+
 public class SortList {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null)
@@ -9,7 +10,7 @@ public class SortList {
     }
 
     ListNode merge(ListNode list1, ListNode list2) {
-        ListNode dummyHead = new ListNode();
+        ListNode dummyHead = new ListNode(0);
         ListNode tail = dummyHead;
         while (list1 != null && list2 != null) {
             if (list1.val < list2.val) {
