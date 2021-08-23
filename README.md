@@ -37,7 +37,7 @@
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)||Medium|[SortColors.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/SortColors.java)||
 |148|[Sort List](SortList.java)||Medium|[SortList.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/SortList.java)||
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)||Medium|[LargestNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/LargestNumber.java)||
-|253|[Meeting Rooms II]()||Medium|Sorting||
+|253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)||Medium|[MinMeetingRooms.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MinMeetingRooms.java)||
 |324|[Wiggle Sort II]()||Medium|Sorting||
 |767|[Reorganize String ]()||Medium|Sorting||
 |973|[K Closest Points to Origin]()||Medium|Sorting||
