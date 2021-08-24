@@ -46,7 +46,7 @@
 |1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/submissions/)||Medium|[Leaderboard.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/Leaderboard.java)||
 |1353|[Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/)||Medium|[MaxEvents.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MaxEvents.java)||
 |1383|[Maximum Performance of a Team]()||Hard|Sorting||
-|1481|[Least Number of Unique Integers after K Removals]()||Medium|Sorting||
+|1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/)||Medium|[FindLeastNumOfUniqueInts.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/FindLeastNumOfUniqueInts.java)||
 
 
 ## . Recursion
