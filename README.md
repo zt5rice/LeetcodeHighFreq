@@ -43,7 +43,7 @@
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)||Medium|[KClosest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/KClosest.java)||
 |1152|[Analyze User Website Visit Pattern](https://leetcode.com/problems/analyze-user-website-visit-pattern/)||Medium|[MostVisitedPattern.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MostVisitedPattern.java)||
 |1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler/)||Medium|[MinAvailableDuration.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/MinAvailableDuration.java)||
-|1244|[Design A Leaderboard]()||Medium|Sorting||
+|1244|[Design A Leaderboard](https://leetcode.com/problems/design-a-leaderboard/submissions/)||Medium|[Leaderboard.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Sorting/Leaderboard.java)||
 |1353|[Maximum Number of Events That Can Be Attended]()||Medium|Sorting||
 |1383|[Maximum Performance of a Team]()||Hard|Sorting||
 |1481|[Least Number of Unique Integers after K Removals]()||Medium|Sorting||
