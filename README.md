@@ -53,7 +53,6 @@
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
 |395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)||Medium|[LongestSubstring.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Recursion/LongestSubstring.java)||
-|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)||Medium|[CanPartitionKSubsets.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CanPartitionKSubsets.java)||
 |726|[Number of Atoms]()||Hard|Recursion||
 |761|[Special Binary String]()||Hard|Recursion||
 
@@ -284,6 +283,7 @@
 |489|[Robot Room Cleaner]()||Hard|DFS||
 |526|[Beautiful Arrangement]()||Medium|DFS||
 |547|[Number of Provinces]()||Medium|DFS||
+|698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)||Medium|[CanPartitionKSubsets.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CanPartitionKSubsets.java)||
 |721|[Accounts Merge]()||Medium|DFS||
 |797|[All Paths From Source to Target]()||Medium|DFS||
 |1192|[Critical Connections in a Network ]()||Hard|DFS||
