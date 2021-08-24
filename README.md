@@ -60,8 +60,8 @@
 ## . LinkedList
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)||Medium|[AddTwoNumbers.java](AddTwoNumbers.java)||
-|19|[Remove Nth Node From End of List]()||Medium|LinkedList||
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)||Medium|[AddTwoNumbers.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/AddTwoNumbers.java)||
+|19|[Remove Nth Node From End of List]()||Medium|[](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/)||
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)||Easy|[MergeTwoLists.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/MergeTwoLists.java)||
 |23|[Merge k Sorted Lists]()||Hard|LinkedList||
 |25|[Reverse Nodes in k-Group]()||Hard|LinkedList||
