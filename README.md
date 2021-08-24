@@ -76,8 +76,8 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)||Easy|[ReverseList.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/ReverseList.java)||
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)||Easy|[IsPalindromeList.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/IsPalindromeList.java)||
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)||Easy|[DeleteNode.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/DeleteNode.java)||
-|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)||Medium|[OddEvenList.java](OddEvenList.java)||
-|426|[Convert Binary Search Tree to Sorted Doubly Linked List]()||Medium|LinkedList||
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)||Medium|[OddEvenList.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/OddEvenList.java)||
+|426|[Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/)||Medium|[TreeToDoublyList.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/TreeToDoublyList.java)||
 |445|[Add Two Numbers II]()||Medium|LinkedList||
 
 
