@@ -66,7 +66,7 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)||Hard|[MergeKLists.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/MergeKLists.java)||
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)||Hard|[ReverseKGroup.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/ReverseKGroup.java)||
 |86|[Partition List](https://leetcode.com/problems/partition-list/)||Medium|[Partition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/Partition.java)||
-|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)||Medium|[ReverseBetween.java](ReverseBetween.java)||
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)||Medium|[ReverseBetween.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/ReverseBetween.java)||
 |138|[Copy List with Random Pointer]()||Medium|LinkedList||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)||Easy|[HasCycle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/HasCycle.java)||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||Medium|[GetIntersect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersect.java)||
