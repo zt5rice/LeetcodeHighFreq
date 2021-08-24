@@ -94,7 +94,7 @@
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/)||Medium|[GetSkyline.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/GetSkyline.java)||
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)||Hard|[Calculate1.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/Calculate1.java)||
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||Medium|[Calculate2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/Calculate2.java)||
-|341|[Flatten Nested List Iterator]()||Medium|Stack||
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)||Medium|[NestedIterator.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/NestedIterator.java)||
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)||Easy|[MovingAverage.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MovingAverage.java)||
 |394|[Decode String](https://leetcode.com/problems/decode-string/)||Medium|[DecodeString.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/DecodeString.java)||
 |503|[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)||Medium|[NextGreaterElements.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/NextGreaterElements.java)||
