@@ -70,7 +70,7 @@
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)||Medium|[CopyRandomList.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/CopyRandomList.java)||
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)||Easy|[HasCycle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/HasCycle.java)||
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)||Medium|[GetIntersect.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersect.java)||
-|143|[Reorder List]()||Medium|LinkedList||
+|143|[Reorder List](https://leetcode.com/problems/reorder-list/)||Medium|[ReorderList.java](ReorderList.java)||
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)||Easy|[GetIntersectionNode.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/GetIntersectionNode.java)||
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)||Easy|[RemoveElements.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/RemoveElements.java)||
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)||Easy|[ReverseList.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/List/ReverseList.java)||
