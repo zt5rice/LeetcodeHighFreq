@@ -90,7 +90,7 @@
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)||Hard|[MaximalRectangle.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaximalRectangle.java)||
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)||Medium|[EvalRPN.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/EvalRPN.java)||
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)||Easy|[MinStack.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MinStack.java)||
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)||Medium|[BSTIterator.java](BSTIterator.java)||
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)||Medium|[BSTIterator.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/BSTIterator.java)||
 |218|[the-skyline-problem](https://leetcode.com/problems/the-skyline-problem/)||Medium|[GetSkyline.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/GetSkyline.java)||
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)||Hard|[Calculate1.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/Calculate1.java)||
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)||Medium|[Calculate2.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/Calculate2.java)||
