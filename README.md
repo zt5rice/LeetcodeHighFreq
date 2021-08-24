@@ -52,7 +52,7 @@
 ## . Recursion
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
-|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)||Medium|Recursion||
+|395|[Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)||Medium|[LongestSubstring.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/Recursion/LongestSubstring.java)||
 |698|[Partition to K Equal Sum Subsets]()||Medium|Recursion||
 |726|[Number of Atoms]()||Hard|Recursion||
 |761|[Special Binary String]()||Hard|Recursion||
