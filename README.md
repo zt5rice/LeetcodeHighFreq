@@ -129,7 +129,7 @@
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)||Medium|[InorderSuccessor.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InorderSuccessor.java)||
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||Hard|[Codec.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Codec.java)||
 |543|[Diameter of Binary Tree]()||Easy|[DiameterOfBinaryTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/DiameterOfBinaryTree.java)||
-|545|[Boundary of Binary Tree]()||Medium|Tree||
+|545|[Boundary of Binary Tree]()||Medium|[BoundaryOfBinaryTree.java](BoundaryOfBinaryTree.java)||
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)||Easy|[IsSubtree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/IsSubtree.java)||
 |863|[All Nodes Distance K in Binary Tree]()||Medium|Tree||
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)||Hard|[VerticalTraversal.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/VerticalTraversal.java)||
