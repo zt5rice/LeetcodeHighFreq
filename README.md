@@ -105,8 +105,8 @@
 |856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)||Medium|[ScoreOfParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/ScoreOfParentheses.java)||
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)||Medium|[StockSpanner.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/StockSpanner.java)||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)||Medium|[MctFromLeafValues.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MctFromLeafValues.java)||
-|1209|[Remove All Adjacent Duplicates in String II]()||Medium|[RemoveDuplicatesII.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/RemoveDuplicatesII.java)||
-|1249|[Minimum Remove to Make Valid Parentheses]()||Medium|[MinRemoveToMakeValid.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MinRemoveToMakeValid.java)||
+|1209|[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)||Medium|[RemoveDuplicatesII.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/RemoveDuplicatesII.java)||
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)||Medium|[MinRemoveToMakeValid.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MinRemoveToMakeValid.java)||
 
 
 ## . Tree
