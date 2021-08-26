@@ -1,3 +1,6 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class CopyRandomList {
     Map<Node, Node> copied = new HashMap<>();
     
