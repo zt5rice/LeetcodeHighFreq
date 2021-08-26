@@ -126,7 +126,7 @@
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)||Medium|[RightSideView.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Recursion/RightSideView.java)||
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)||Easy|[InvertTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InvertTree.java)||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||Medium|[LowestCommonAncestor1.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/LowestCommonAncestor1.java)||
-|285|[Inorder Successor in BST]()||Medium|Tree||
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)||Medium|[InorderSuccessor.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InorderSuccessor.java)||
 |297|[Serialize and Deserialize Binary Tree]()||Hard|Tree||
 |543|[Diameter of Binary Tree]()||Easy|[DiameterOfBinaryTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/DiameterOfBinaryTree.java)||
 |545|[Boundary of Binary Tree]()||Medium|Tree||
