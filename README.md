@@ -106,7 +106,7 @@
 |901|[Online Stock Span](https://leetcode.com/problems/online-stock-span/)||Medium|[StockSpanner.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/StockSpanner.java)||
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/)||Medium|[MctFromLeafValues.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MctFromLeafValues.java)||
 |1209|[Remove All Adjacent Duplicates in String II]()||Medium|[RemoveDuplicatesII.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/RemoveDuplicatesII.java)||
-|1249|[Minimum Remove to Make Valid Parentheses]()||Medium|Stack||
+|1249|[Minimum Remove to Make Valid Parentheses]()||Medium|[MinRemoveToMakeValid.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Stack/MinRemoveToMakeValid.java)||
 
 
 ## . Tree
