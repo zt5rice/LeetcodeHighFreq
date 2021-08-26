@@ -3,8 +3,6 @@ import java.util.Deque;
 import java.util.HashSet;
 import java.util.Set;
 
-import jdk.incubator.jpackage.main.Main;
-
 public class MinRemoveToMakeValid {
     public String minRemoveToMakeValid(String s) {
         Set<Integer> indexesToRemove = new HashSet<>();
