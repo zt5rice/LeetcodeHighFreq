@@ -131,7 +131,7 @@
 |543|[Diameter of Binary Tree]()||Easy|[DiameterOfBinaryTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/DiameterOfBinaryTree.java)||
 |545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)||Medium|[BoundaryOfBinaryTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/BoundaryOfBinaryTree.java)||
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)||Easy|[IsSubtree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/IsSubtree.java)||
-|863|[All Nodes Distance K in Binary Tree]()||Medium|Tree||
+|863|[All Nodes Distance K in Binary Tree]()||Medium|[DistanceK.java](DistanceK.java)||
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)||Hard|[VerticalTraversal.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/VerticalTraversal.java)||
 
 
