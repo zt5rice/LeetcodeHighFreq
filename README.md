@@ -213,7 +213,7 @@
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)||Medium|[FindUnsortedSubarray.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindUnsortedSubarray.java)||
 |609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/)||Medium|[FindDuplicate.java](FindDuplicate.java)||
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)||Medium|[LeastInterval.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LeastInterval.java)|[pages](https://leetcode.com/problems/task-scheduler/discuss/104500/Java-O(n)-time-O(1)-space-1-pass-no-sorting-solution-with-detailed-explanation)|
-|647|[Palindromic Substrings]()||Medium|String||
+|647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)||Medium|[CountSubstrings.java](CountSubstrings.java)||
 |665|[Non-decreasing Array]()||Medium|String||
 |670|[Maximum Swap]()||Medium|String||
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||Easy|[ValidPalindrome2.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ValidPalindrome2.java)||
