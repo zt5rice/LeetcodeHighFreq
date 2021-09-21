@@ -202,7 +202,7 @@
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)||Easy|[AddStrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AddStrings.java)||
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)||Medium|[FindDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindDuplicates.java)||
-|443|[String Compression]()||Medium|String||
+|443|[String Compression](https://leetcode.com/problems/string-compression/)||Medium|[Compress443.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Compress443.java)||
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)||Easy|[Fib.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Fib.java)||
 |523|[Continuous Subarray Sum]()||Medium|[CheckSubarraySum.java](CheckSubarraySum.java)|HashMap|
 |532|[K-diff Pairs in an Array]()||Medium|String||
