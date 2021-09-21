@@ -206,7 +206,7 @@
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)||Easy|[Fib.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Fib.java)||
 |523|[Continuous Subarray Sum]()||Medium|[CheckSubarraySum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CheckSubarraySum.java)|HashMap|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)||Medium|[FindPairs.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindPairs.java)||
-|535|[Encode and Decode TinyURL]()||Medium|String||
+|535|[Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)||Medium|[Codec.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Codec.java)||
 |539|[Minimum Time Difference]()||Medium|String||
 |560|[Subarray Sum Equals K]()||Medium|String||
 |564|[Find the Closest Palindrome]()||Hard|String||
