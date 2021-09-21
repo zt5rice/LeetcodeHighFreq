@@ -196,7 +196,7 @@
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)||Medium|[topKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/topKFrequent.java)||
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)||Easy|[Intersect.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Intersect.java)||
 |356|[Line Reflection](https://leetcode.com/problems/line-reflection/)||Medium|[IsReflected.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsReflected.java)||
-|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)||Medium|String||
+|380|[Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)||Medium|[RandomizedSet.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RandomizedSet.java)||
 |381|[Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)||Hard|[RandomizedCollection.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RandomizedCollection.java)||
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)||Easy|[FirstUniqChar.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FirstUniqChar.java)||
 |415|[Add Strings](https://leetcode.com/problems/add-strings/)||Easy|[AddStrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AddStrings.java)||
