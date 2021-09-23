@@ -41,5 +41,5 @@ n == nums.length
 1 <= n <= 104
 -105 <= nums[i] <= 105
 
-
+https://leetcode.com/problems/non-decreasing-array/discuss/106849/C%2B%2B-Java-Clean-Code-6-liner-Without-Modifying-Input
 */
