@@ -316,7 +316,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)||Medium|[Rob.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Rob.java)||
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)||Medium|[Largest.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/Largest.java)|DP|
 |256|[Paint House](https://leetcode.com/problems/paint-house/)||Medium|[MinCost.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinCost.java)||
-|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)||Hard|[MinCostII.java](MinCostII.java)||
+|265|[Paint House II](https://leetcode.com/problems/paint-house-ii/)||Hard|[MinCostII.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MinCostII.java)||
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)||Medium|[NumSquares.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/NumSquares.java)||
 |309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)||Medium|[MaxProfit5.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxProfit5.java)||
 |312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/)||Hard|[MaxCoins.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/MaxCoins.java)||
