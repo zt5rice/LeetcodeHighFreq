@@ -215,7 +215,7 @@
 |621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/)||Medium|[LeastInterval.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LeastInterval.java)|[pages](https://leetcode.com/problems/task-scheduler/discuss/104500/Java-O(n)-time-O(1)-space-1-pass-no-sorting-solution-with-detailed-explanation)|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings)||Medium|[CountSubstrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountSubstrings.java)||
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)||Medium|[CheckPossibility.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CheckPossibility.java)||
-|670|[Maximum Swap]()||Medium|String||
+|670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)||Medium|[MaximumSwap.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaximumSwap.java)||
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||Easy|[ValidPalindrome2.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ValidPalindrome2.java)||
 |692|[Top K Frequent Words]()||Medium|String||
 |695|[Max Area of Island]()||Medium|String||
