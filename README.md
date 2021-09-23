@@ -217,9 +217,7 @@
 |665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array)||Medium|[CheckPossibility.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CheckPossibility.java)||
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)||Medium|[MaximumSwap.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaximumSwap.java)||
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||Easy|[ValidPalindrome2.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ValidPalindrome2.java)||
-|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)||Medium|[TopKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TopKFrequent.java)||
-|695|[Max Area of Island]()||Medium|String||
-|696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)||Easy|[CountBinarySubstrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountBinarySubstrings.java)||
+|692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)||Medium|[TopKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TopKFrequent.java)|||696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)||Easy|[CountBinarySubstrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountBinarySubstrings.java)||
 |723|[Candy Crush]()||Medium|String||
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)||Easy|[PivotIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PivotIndex.java)||
 |729|[My Calendar I]()||Medium|String||
@@ -283,6 +281,7 @@
 |489|[Robot Room Cleaner]()||Hard|DFS||
 |526|[Beautiful Arrangement]()||Medium|DFS||
 |547|[Number of Provinces]()||Medium|DFS||
+|695|[Max Area of Island]()||Medium|[MaxAreaOfIsland.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/MaxAreaOfIsland.java)||
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)||Medium|[CanPartitionKSubsets.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CanPartitionKSubsets.java)||
 |721|[Accounts Merge]()||Medium|DFS||
 |797|[All Paths From Source to Target]()||Medium|DFS||
