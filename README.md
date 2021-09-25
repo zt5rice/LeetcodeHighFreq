@@ -127,6 +127,7 @@
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)||Easy|[InvertTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InvertTree.java)||
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)||Medium|[LowestCommonAncestor1.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/LowestCommonAncestor1.java)||
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)||Medium|[InorderSuccessor.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/InorderSuccessor.java)||
+|366|[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)||Medium|[FindLeaves.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/FindLeaves.java)||
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)||Hard|[Codec.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/Codec.java)||
 |543|[Diameter of Binary Tree]()||Easy|[DiameterOfBinaryTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/DiameterOfBinaryTree.java)||
 |545|[Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)||Medium|[BoundaryOfBinaryTree.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/BoundaryOfBinaryTree.java)||
