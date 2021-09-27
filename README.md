@@ -186,7 +186,8 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)||Easy|[ContainsDuplicate.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ContainsDuplicate.java)||
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)||Medium|[ProductExceptSelf.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ProductExceptSelf.java)||
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)||Easy|[IsAnagram.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsAnagram.java)||
-|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)||Easy|[IsAnagram.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ShortestDistance.java)||
+|243|[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)||Easy|[ShortestWordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ShortestDistance.java)||
+|244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)||Medium|[WordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/WordDistance.java)||
 |244|[Shortest Word Distance II](https://leetcode.com/problems/shortest-word-distance-ii/)||Medium|[WordDistance.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/WordDistance.java)||
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)||Easy|[MissingNumber.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MissingNumber.java)||
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||Hard|[NumberToWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumberToWords.java)||
@@ -226,7 +227,7 @@
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)||Easy|[SubdomainVisits.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubdomainVisits.java)||
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)||Easy|[ReorderLogFiles.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReorderLogFiles.java)|| 
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)||Easy|[IsAlienSorted.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsAlienSorted.java)||
-|974|[Subarray Sums Divisible by K]()||Medium|String||
+|974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)||Medium|[SubarraysDivByK.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubarraysDivByK.java)||
 |1010|[Pairs of Songs With Total Durations Divisible by 60]()||Medium|String||
 |1048|[Longest String Chain]()||Medium|String||
 |1146|[Snapshot Array]()||Medium|String||
