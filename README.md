@@ -228,8 +228,8 @@
 |937|[Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)||Easy|[ReorderLogFiles.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReorderLogFiles.java)|| 
 |953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)||Easy|[IsAlienSorted.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/IsAlienSorted.java)||
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)||Medium|[SubarraysDivByK.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubarraysDivByK.java)||
-|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)||Medium|[NumPairsDivisibleBy60.java](NumPairsDivisibleBy60.java)||
-|1048|[Longest String Chain]()||Medium|String||
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)||Medium|[NumPairsDivisibleBy60.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumPairsDivisibleBy60.java)||
+|1048|[Longest String Chain]()||Medium|[longestStrChain.java](longestStrChain.java)||
 |1146|[Snapshot Array]()||Medium|String||
 |1163|[Last Substring in Lexicographical Order]()||Hard|String||
 |1328|[Break a Palindrome]()||Medium|String||
