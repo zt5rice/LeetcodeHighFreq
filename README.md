@@ -233,7 +233,7 @@
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)||Medium|String||
 |1163|[Last Substring in Lexicographical Order]()||Hard|String||
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)||Medium|[BreakPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/BreakPalindrome.java)||
-|1423|[Maximum Points You Can Obtain from Cards]()||Medium|String||
+|1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)||Medium|[MaxScore.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxScore.java)||
 |1428|[Leftmost Column with at Least a One]()||Medium|String||
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts]()||Medium|String||
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)||Easy|[RunningSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RunningSum.java)||
