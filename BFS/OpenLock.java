@@ -1,6 +1,6 @@
 import java.util.*;
 public class OpenLock {
-    public int openLock0(String[] deadends, String target) {
+    public int openLock0(String[] deadends, String target) { // one end
         Set<String> deads = new HashSet<String>(Arrays.asList(deadends));
         Deque<String> queue = new ArrayDeque<>();
         int steps = 0;
@@ -56,6 +56,5 @@ public class OpenLock {
         System.out.println("Input : " + Arrays.deepToString(deadends));
         System.out.println("Target: " + target);
         System.out.println("Steps : " + steps);
-
     }
 }

@@ -263,7 +263,7 @@
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||Medium|[OrangesRotting.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OrangesRotting.java)||
 |1197|[Minimum Knight Moves]()||Medium|BFS||
 |1242|[Web Crawler Multithreaded]()||Medium|BFS||
-|1293|[Shortest Path in a Grid with Obstacles Elimination]()||Hard|BFS||
+|1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)||Hard|[ShortestPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ShortestPath.java)||
 
 
 ## . DFS
