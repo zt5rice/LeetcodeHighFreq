@@ -258,7 +258,7 @@
 |339|[Nested List Weight Sum]()||Medium|BFS||
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)||Medium|[PacificAtlantic.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/PacificAtlantic.java)||
 |529|[Minesweeper]()||Medium|BFS||
-|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)||Medium|[OpenLock.java](OpenLock.java)||
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)||Medium|[OpenLock.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OpenLock.java)||
 |909|[Snakes and Ladders]()||Medium|BFS||
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||Medium|[OrangesRotting.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OrangesRotting.java)||
 |1197|[Minimum Knight Moves]()||Medium|BFS||
