@@ -230,7 +230,7 @@
 |974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)||Medium|[SubarraysDivByK.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubarraysDivByK.java)||
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)||Medium|[NumPairsDivisibleBy60.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumPairsDivisibleBy60.java)||
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/)||Medium|[longestStrChain.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/longestStrChain.java)||
-|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)||Medium|String||
+|1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array/)||Medium|[SnapshotArray.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Design/SnapshotArray.java)||
 |1163|[Last Substring in Lexicographical Order]()||Hard|String||
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/)||Medium|[BreakPalindrome.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/BreakPalindrome.java)||
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)||Medium|[MaxScore.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxScore.java)||
@@ -262,6 +262,7 @@
 |909|[Snakes and Ladders]()||Medium|BFS||
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||Medium|[OrangesRotting.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OrangesRotting.java)||
 |1197|[Minimum Knight Moves]()||Medium|BFS||
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)||Medium|[]()||
 |1242|[Web Crawler Multithreaded]()||Medium|BFS||
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)||Hard|[ShortestPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ShortestPath.java)||
 
