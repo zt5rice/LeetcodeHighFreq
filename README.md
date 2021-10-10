@@ -238,7 +238,7 @@
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)||Medium|[MaxArea1456.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaxArea1456.java)||
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)||Easy|[RunningSum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/RunningSum.java)||
 |1531|[String Compression II]()||Hard|String||
-|1570|[Dot Product of Two Sparse Vectors]()||Medium|String||
+|1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)||Medium|[SparseVector.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SparseVector.java)||
 
 
 
