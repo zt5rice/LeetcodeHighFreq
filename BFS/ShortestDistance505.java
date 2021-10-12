@@ -1,6 +1,15 @@
 import java.util.*;
 
-public class ShortestDistance {
+public class ShortestDistance505 {
+    public static void main(String[] args) {
+        ShortestDistance505 sol = new ShortestDistance505();
+        int[][] maze = new int[][]{{0,0,1,0,0},{0,0,0,0,0},{0,0,0,1,0},{1,1,0,1,1},{0,0,0,0,0}};
+        int[] start = new int[]{0,4};
+        int[] dest = new int[]{4,4};
+        int res = sol.shortestDistance(maze, start, dest);
+        System.out.println(res);
+    }
+
     public int shortestDistance(int[][] maze, int[] start, int[] dest) {
         int[][] distance = new int[maze.length][maze[0].length];
         for (int[] row: distance)
@@ -34,9 +43,7 @@ public class ShortestDistance {
             }
         }
     } 
-    public static void main(String[] args) {
-        
-    }   
+ 
 }
 /*abstract
 505. The Maze II
