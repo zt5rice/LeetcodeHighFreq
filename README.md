@@ -253,7 +253,7 @@
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)||Medium|[Course Schedule](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CanFinish.java)||
 |210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)||Medium|[Course Schedule II](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/FindOrder.java)||
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)||Medium|[WallsAndGates.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/WallsAndGates.java)||
-|301|[Remove Invalid Parentheses]()||Hard|BFS||
+|301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)||Hard|[RemoveInvalidParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/RemoveInvalidParentheses.java)||
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/solution/)||Medium|[CountComponents.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CountComponents.java)||
 |339|[Nested List Weight Sum]()||Medium|BFS||
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)||Medium|[PacificAtlantic.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/PacificAtlantic.java)||
