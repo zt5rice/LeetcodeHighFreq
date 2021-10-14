@@ -240,8 +240,6 @@
 |1531|[String Compression II]()||Hard|String||
 |1570|[Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)||Medium|[SparseVector.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SparseVector.java)||
 
-
-
 ## . BFS
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
@@ -255,7 +253,7 @@
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)||Medium|[WallsAndGates.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/WallsAndGates.java)||
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)||Hard|[RemoveInvalidParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/RemoveInvalidParentheses.java)||
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/solution/)||Medium|[CountComponents.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CountComponents.java)||
-|339|[Nested List Weight Sum]()||Medium|BFS||
+|339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)||Medium|[DepthSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/DepthSum.java)||
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)||Medium|[PacificAtlantic.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/PacificAtlantic.java)||
 |529|[Minesweeper]()||Medium|BFS||
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)||Medium|[OpenLock.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OpenLock.java)||
