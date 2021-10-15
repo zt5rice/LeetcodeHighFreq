@@ -260,7 +260,7 @@
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)||Medium|[OrangesRotting.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OrangesRotting.java)||
 |1197|[Minimum Knight Moves](https://leetcode.com/problems/minimum-knight-moves/)||Medium|[MinKnightMoves.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/MinKnightMoves.java)||
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/)||Medium|[RemoveSubfolders.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/RemoveSubfolders.java)||
-|1242|[Web Crawler Multithreaded]()||Medium|BFS||
+|1242|[Web Crawler Multithreaded](https://leetcode.com/problems/web-crawler-multithreaded/)||Medium|[Crawl.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/Crawl.java)||
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)||Hard|[ShortestPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/ShortestPath.java)||
 
 
