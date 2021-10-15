@@ -274,7 +274,7 @@
 |99|[Recover Binary Search Tree]()||Hard|DFS||
 |124|[Binary Tree Maximum Path Sum]()||Hard|DFS||
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)||Medium|[Solve.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/Solve.java)||
-|211|[Design Add and Search Words Data Structure]()||Medium|DFS||
+|211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)||Medium|[WordDictionary.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/WordDictionary.java)||
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||Hard|[LongestIncreasingPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/LongestIncreasingPath.java)||
 |332|[Reconstruct Itinerary]()||Medium|DFS||
 |364|[Nested List Weight Sum II]()||Medium|DFS||
