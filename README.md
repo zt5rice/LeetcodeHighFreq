@@ -277,7 +277,7 @@
 |211|[Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/)||Medium|[WordDictionary.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/WordDictionary.java)||
 |329|[Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)||Hard|[LongestIncreasingPath.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/LongestIncreasingPath.java)||
 |332|[Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)||Medium|[FindItinerary.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/FindItinerary.java)||
-|364|[Nested List Weight Sum II]()||Medium|DFS||
+|364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)||Medium|[]()||
 |472|[Concatenated Words]()||Hard|DFS||
 |489|[Robot Room Cleaner]()||Hard|DFS||
 |526|[Beautiful Arrangement]()||Medium|DFS||
