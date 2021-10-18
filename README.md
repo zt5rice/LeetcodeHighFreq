@@ -285,7 +285,7 @@
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)||Medium|[FindCircleNum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/FindCircleNum.java)||
 |695|[Max Area of Island]()||Medium|[MaxAreaOfIsland.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/MaxAreaOfIsland.java)||
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)||Medium|[CanPartitionKSubsets.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CanPartitionKSubsets.java)||
-|721|[Accounts Merge]()||Medium|DFS||
+|721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)||Medium|[AccountsMerge.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/AccountsMerge.java)||
 |797|[All Paths From Source to Target]()||Medium|DFS||
 |1192|[Critical Connections in a Network ]()||Hard|DFS||
 
