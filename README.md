@@ -280,7 +280,7 @@
 |364|[Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/)||Medium|[DepthSumInverse.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/DepthSumInverse.java)||
 |472|[Concatenated Words]()||Hard|DFS||
 |489|[Robot Room Cleaner]()||Hard|DFS||
-|526|[Beautiful Arrangement]()||Medium|DFS||
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)||Medium|[CountArrangement.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CountArrangement.java)||
 |529|[Minesweeper](https://leetcode.com/problems/minesweeper/)||Medium|[UpdateBoard.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/UpdateBoard.java)||
 |547|[Number of Provinces]()||Medium|DFS||
 |695|[Max Area of Island]()||Medium|[MaxAreaOfIsland.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/MaxAreaOfIsland.java)||
