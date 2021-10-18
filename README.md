@@ -29,7 +29,6 @@
 |1235|[Maximum Profit in Job Scheduling]()||Hard|Binary Search||
 |1283|[Find the Smallest Divisor Given a Threshold]()||Medium|Binary Search||
 
-
 ## . Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
