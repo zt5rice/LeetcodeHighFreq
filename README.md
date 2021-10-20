@@ -10,7 +10,7 @@
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)||Medium|[myPow.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/myPow.java)||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)||Easy|[MySqrt.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MySqrt.java)||
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)||Medium|[SearchMatrix.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/SearchMatrix.java)||
-|162|[Find Peak Element]()||Medium|Binary Search||
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)||Medium|[FindPeakElement.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/FindPeakElement.java)||
 |209|[Minimum Size Subarray Sum]()||Medium|Binary Search||
 |230|[Kth Smallest Element in a BST]()||Medium|Binary Search||
 |240|[Search a 2D Matrix II]()||Medium|Binary Search||
