@@ -15,7 +15,6 @@
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)||Medium|[KthSmallest.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/Tree/KthSmallest.java)||
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|[SearchMatrix2.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/SearchMatrix2.java)||
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/submissions/)||Easy|[FirstBadVersion.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/FirstBadVersion.java)||
-|287|[Find the Duplicate Number]()||Medium|Binary Search||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)||Medium|[Longest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Longest.java)||
 |315|[Count of Smaller Numbers After Self]()||Hard|Binary Search||
 |354|[Russian Doll Envelopes]()||Hard|Binary Search||
@@ -192,6 +191,7 @@
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)||Hard|[NumberToWords.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/NumberToWords.java)||
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)||Medium|[FindCelebrity.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindCelebrity.java)||
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)||Easy|[MoveZeroes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MoveZeroes.java)||
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)||Medium|[FindDuplicate287.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindDuplicate287.java)||
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)||Medium|[GameOfLife.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/GameOfLife.java)||
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)||Medium|[LengthOfLongestSubstringKDistinct.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/LengthOfLongestSubstringKDistinct.java)||
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  | Easy | [ReverseString.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ReverseString.java) | ----------- |
