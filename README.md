@@ -21,7 +21,6 @@
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Binary Search||
 |493|[Reverse Pairs]()||Hard|Binary Search||
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)||Medium|[PickIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/PickIndex.java)||
-|718|[Maximum Length of Repeated Subarray]()||Medium|Binary Search||
 |981|[Time Based Key-Value Store]()||Medium|Binary Search||
 |1235|[Maximum Profit in Job Scheduling]()||Hard|Binary Search||
 |1283|[Find the Smallest Divisor Given a Threshold]()||Medium|Binary Search||
@@ -328,6 +327,7 @@
 |416|[Partition Equal Subset Sum]()||Medium|[CanPartition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CanPartition.java)||
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)||[FindTargetSumWays.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/FindTargetSumWays.java)|DP||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
+|718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)||Medium|[FindLength.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/FindLength.java)||
 |741|[Cherry Pickup]()||Hard|DP|| 
 |871|[Minimum Number of Refueling Stops]()||Hard|DP||
 |920|[Number of Music Playlists]()||Hard|DP||
