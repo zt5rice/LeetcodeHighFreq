@@ -23,7 +23,7 @@
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)||Medium|[PickIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/PickIndex.java)||
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)||Medium|[TimeMap.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/TimeMap.java)||
 |1235|[Maximum Profit in Job Scheduling]()||Hard|Binary Search||
-|1283|[Find the Smallest Divisor Given a Threshold]()||Medium|Binary Search||
+|1283|[Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/)||Medium|[SmallestDivisor.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/SmallestDivisor.java)||
 
 ## . Sorting
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
