@@ -21,7 +21,7 @@
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Binary Search||
 |493|[Reverse Pairs]()||Hard|Binary Search||
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)||Medium|[PickIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/PickIndex.java)||
-|981|[Time Based Key-Value Store]()||Medium|Binary Search||
+|981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)||Medium|[TimeMap.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/TimeMap.java)||
 |1235|[Maximum Profit in Job Scheduling]()||Hard|Binary Search||
 |1283|[Find the Smallest Divisor Given a Threshold]()||Medium|Binary Search||
 
