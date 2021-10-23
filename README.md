@@ -17,7 +17,7 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/submissions/)||Easy|[FirstBadVersion.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/FirstBadVersion.java)||
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)||Medium|[Longest.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/Longest.java)||
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)||Hard|[CountSmaller.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/CountSmaller.java)||
-|354|[Russian Doll Envelopes]()||Hard|Binary Search||
+|354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)||Hard|[MaxEnvelopes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MaxEnvelopes.java)||
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Binary Search||
 |378|[Kth Smallest Element in a Sorted Matrix]()||Medium|Binary Search||
 |454|[4Sum II]()||Medium|Binary Search||
