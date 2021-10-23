@@ -20,7 +20,7 @@
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)||Hard|[MaxEnvelopes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MaxEnvelopes.java)||
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Binary Search||
 |493|[Reverse Pairs]()||Hard|Binary Search||
-|528|[Random Pick with Weight]()||Medium|Binary Search||
+|528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)||Medium|[PickIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/PickIndex.java)||
 |718|[Maximum Length of Repeated Subarray]()||Medium|Binary Search||
 |981|[Time Based Key-Value Store]()||Medium|Binary Search||
 |1235|[Maximum Profit in Job Scheduling]()||Hard|Binary Search||
