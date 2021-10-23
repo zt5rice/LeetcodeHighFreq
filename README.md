@@ -19,7 +19,6 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)||Hard|[CountSmaller.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/CountSmaller.java)||
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)||Hard|[MaxEnvelopes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MaxEnvelopes.java)||
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Binary Search||
-|378|[Kth Smallest Element in a Sorted Matrix]()||Medium|Binary Search||
 |454|[4Sum II]()||Medium|Binary Search||
 |493|[Reverse Pairs]()||Hard|Binary Search||
 |528|[Random Pick with Weight]()||Medium|Binary Search||
@@ -253,6 +252,7 @@
 |301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/)||Hard|[RemoveInvalidParentheses.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/RemoveInvalidParentheses.java)||
 |323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/solution/)||Medium|[CountComponents.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/CountComponents.java)||
 |339|[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)||Medium|[DepthSum.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/DepthSum.java)||
+|378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)||Medium|[KthSmallest.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/KthSmallest.java)||
 |417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)||Medium|[PacificAtlantic.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/PacificAtlantic.java)||
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)||Medium|[OpenLock.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/BFS/OpenLock.java)||
 |909|[Snakes and Ladders]()||Medium|BFS||
