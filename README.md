@@ -19,7 +19,6 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)||Hard|[CountSmaller.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/CountSmaller.java)||
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)||Hard|[MaxEnvelopes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MaxEnvelopes.java)||
 |363|[Max Sum of Rectangle No Larger Than K]()||Hard|Binary Search||
-|454|[4Sum II]()||Medium|Binary Search||
 |493|[Reverse Pairs]()||Hard|Binary Search||
 |528|[Random Pick with Weight]()||Medium|Binary Search||
 |718|[Maximum Length of Repeated Subarray]()||Medium|Binary Search||
@@ -204,6 +203,7 @@
 |438| [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Sliding window | Medium | [Find All Anagrams in a String](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/AllAnagrams.java)| |
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)||Medium|[FindDuplicates.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindDuplicates.java)||
 |443|[String Compression](https://leetcode.com/problems/string-compression/)||Medium|[Compress443.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Compress443.java)||
+|454|[4Sum II](https://leetcode.com/problems/4sum-ii/)||Medium|[FourSumCount.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FourSumCount.java)||
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)||Easy|[Fib.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/Fib.java)||
 |523|[Continuous Subarray Sum]()||Medium|[CheckSubarraySum.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CheckSubarraySum.java)|HashMap|
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)||Medium|[FindPairs.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/FindPairs.java)||
