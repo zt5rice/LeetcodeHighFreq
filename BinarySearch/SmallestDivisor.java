@@ -20,8 +20,6 @@ Each result of the division is rounded to the nearest integer greater than or eq
 
 It is guaranteed that there will be an answer.
 
- 
-
 Example 1:
 
 Input: nums = [1,2,5,9], threshold = 6
