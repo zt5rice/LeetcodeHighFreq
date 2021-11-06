@@ -47,6 +47,4 @@ Constraints:
 1 <= nums[i] <= 106
 nums.length <= threshold <= 106
 
-
-
 */
