@@ -31,12 +31,6 @@ public class ShuffleArray {
 Shuffle an Array
 Medium
 
-499
-
-489
-
-Add to List
-
 Share
 Given an integer array nums, design an algorithm to randomly shuffle the array. All permutations of the array should be equally likely as a result of the shuffling.
 
