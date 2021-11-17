@@ -3,8 +3,7 @@ public class IsIPV {
     public static void main(String[] args) {
         IsIPV sol = new IsIPV();
         String str = "172.16.254.1";
-        String[] strs = str.split(".");
-        System.out.println(Arrays.deepToString(strs));
+        String[] strs = str.split("\\.");
         System.out.println(sol.validIPAddress(str));
     }
     public String validIPAddress(String IP) {

@@ -1,4 +1,4 @@
-class Solution {
+class FindBall {
     public int[] findBall(int[][] grid) {
         if (grid == null || grid.length == 0) {
             return new int[0];
