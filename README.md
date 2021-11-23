@@ -19,7 +19,7 @@
 |315|[Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)||Hard|[CountSmaller.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/CountSmaller.java)||
 |354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)||Hard|[MaxEnvelopes.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/MaxEnvelopes.java)||
 |363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/)||Hard|[MaxSumSubmatrix.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearchMaxSumSubmatrix.java)||
-|493|[Reverse Pairs]()||Hard|Binary Search||
+|493|[Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)||Hard|[ReversePairs.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/ReversePairs.java)||
 |528|[Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)||Medium|[PickIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/PickIndex.java)||
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)||Medium|[TimeMap.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/TimeMap.java)||
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)||Hard|[JobScheduling.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/BinarySearch/JobScheduling.java)||
