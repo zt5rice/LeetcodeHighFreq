@@ -218,7 +218,7 @@
 |670|[Maximum Swap](https://leetcode.com/problems/maximum-swap/)||Medium|[MaximumSwap.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/MaximumSwap.java)||
 |680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)||Easy|[ValidPalindrome2.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/ValidPalindrome2.java)||
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)||Medium|[TopKFrequent.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/TopKFrequent.java)|||696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/)||Easy|[CountBinarySubstrings.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CountBinarySubstrings.java)||
-|723|[Candy Crush]()||Medium|String||
+|723|[Candy Crush](https://leetcode.com/problems/candy-crush/)||Medium|[CandyCrush.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/CandyCrush.java)||
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/submissions/)||Easy|[PivotIndex.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/PivotIndex.java)||
 |729|[My Calendar I]()||Medium|String||
 |811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)||Easy|[SubdomainVisits.java](https://github.com/zt5rice/LeetcodeHighFreq/tree/master/String/SubdomainVisits.java)||
