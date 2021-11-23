@@ -285,7 +285,7 @@
 |698|[Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)||Medium|[CanPartitionKSubsets.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CanPartitionKSubsets.java)||
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/)||Medium|[AccountsMerge.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/AccountsMerge.java)||
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)||Medium|[AllPathsSourceTarget.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/AllPathsSourceTarget.java)||
-|1192|[Critical Connections in a Network ]()||Hard|DFS||
+|1192|[Critical Connections in a Network ](https://leetcode.com/problems/critical-connections-in-a-network/)||Hard|[CriticalConnections.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DFS/CriticalConnections.java)||
 
 
 ## . DP
