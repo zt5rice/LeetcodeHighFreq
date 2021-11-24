@@ -3,7 +3,7 @@ public class CriticalConnections {
     int[] deepArray; // 深度数组
     ArrayList<Integer>[] map; // 结构图
 
-    
+
     public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
         deepArray = new int[n]; // 初始化深度数组
         Arrays.fill(deepArray, -1); // 所有节点初始深度为-1
@@ -20,6 +20,7 @@ public class CriticalConnections {
         return res;
     }
 
+    
     // current为当前节点
     // previous为前节点
     // deep为当前深度
