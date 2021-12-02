@@ -40,6 +40,8 @@ public class Search {
         System.out.println("Input  : " + Arrays.toString(nums));
         System.out.println("Target : " + target);
         System.out.println("Result : " + res);
+        System.out.println(Integer.toBinaryString(-1));
+        System.out.println(-123112 & Integer.MAX_VALUE);
     }
 }
 /*abstract
