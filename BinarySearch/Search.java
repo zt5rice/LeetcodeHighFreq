@@ -29,6 +29,7 @@ public class Search {
         return -1;
     }
     
+    
     public static void main(String[] args) {
         Search sol = new Search();
         int[] nums; 
