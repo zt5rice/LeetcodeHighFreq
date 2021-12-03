@@ -29,7 +29,7 @@ public class Search {
         return -1;
     }
     
-    
+
     public static void main(String[] args) {
         Search sol = new Search();
         int[] nums; 
@@ -44,6 +44,8 @@ public class Search {
         System.out.println(Integer.toBinaryString(-1));
         System.out.println(-123112 & Integer.MAX_VALUE);
     }
+
+    
 }
 /*abstract
 https://leetcode.com/problems/search-in-rotated-sorted-array/
