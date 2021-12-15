@@ -22,7 +22,6 @@ public class SearchMatrix2 {
             }
             row++;
         }
-
         return searchRec(left, row, mid-1, down) || searchRec(mid+1, up, right, row-1);
     }
 
