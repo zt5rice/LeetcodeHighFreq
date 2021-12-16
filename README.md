@@ -323,7 +323,8 @@
 |322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange.java)||
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)||Hard|[IncreasingTriplet.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/IncreasingTriplet.java)||
 |338|[Counting Bits](https://leetcode.com/problems/counting-bits/)||Medium|[CountBits.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CountBits.java)||
-|403|[Frog Jump](https://leetcode.com/problems/partition-equal-subset-sum/)||Hard|DP||
+|403|[Frog Jump](https://leetcode.com/problems/partition-equal-subset-sum/)||Hard|[canCross.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/canCross.java)||
+|322|[Coin Change](https://leetcode.com/problems/coin-change/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/canCross.java)||
 |416|[Partition Equal Subset Sum]()||Medium|[CanPartition.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CanPartition.java)||
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)||[FindTargetSumWays.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/FindTargetSumWays.java)|DP||
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/)||Medium|[CoinChange.java](https://github.com/zt5rice/LeetcodeHighFreq/blob/master/DP/CoinChange2.java)||
