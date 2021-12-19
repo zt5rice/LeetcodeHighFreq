@@ -25,6 +25,7 @@ public class SearchMatrix2 {
         return searchRec(left, row, mid-1, down) || searchRec(mid+1, up, right, row-1);
     }
 
+    
     public boolean searchMatrix(int[][] mat, int targ) {
         // cache input values in object to avoid passing them unnecessarily
         // to `searchRec`
