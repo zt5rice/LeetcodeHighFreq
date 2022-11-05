@@ -1,6 +1,5 @@
 # Top frequency Leetcode summary
 
-
 ## . Binary Search
 | #    | Title | Solution | Difficulty | Source Code |    Page     |
 | ---- | ----- | -------- | ---------- | ----------- | ----------- |
